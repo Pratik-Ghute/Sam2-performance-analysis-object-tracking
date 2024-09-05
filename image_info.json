@@ -1,0 +1,7327 @@
+{
+    "can_soymilk": {
+        "product_images_list": [
+            "can_soymilk_000039.jpg",
+            "can_soymilk_000041.jpg",
+            "can_soymilk_000014.jpg",
+            "can_soymilk_000025.jpg",
+            "can_soymilk_000022.jpg",
+            "can_soymilk_000015.jpg",
+            "can_soymilk_000002.jpg",
+            "can_soymilk_000009.jpg",
+            "can_soymilk_000008.jpg",
+            "can_soymilk_000043.jpg",
+            "can_soymilk_000016.jpg",
+            "can_soymilk_000007.jpg",
+            "can_soymilk_000013.jpg",
+            "can_soymilk_000031.jpg",
+            "can_soymilk_000027.jpg",
+            "can_soymilk_000046.jpg",
+            "can_soymilk_000021.jpg",
+            "can_soymilk_000040.jpg",
+            "can_soymilk_000030.jpg",
+            "can_soymilk_000035.jpg",
+            "can_soymilk_000010.jpg",
+            "can_soymilk_000006.jpg",
+            "can_soymilk_000020.jpg",
+            "can_soymilk_000023.jpg",
+            "can_soymilk_000024.jpg",
+            "can_soymilk_000050.jpg",
+            "can_soymilk_000029.jpg",
+            "can_soymilk_000033.jpg",
+            "can_soymilk_000004.jpg",
+            "can_soymilk_000036.jpg",
+            "can_soymilk_000034.jpg",
+            "can_soymilk_000044.jpg",
+            "can_soymilk_000001.jpg",
+            "can_soymilk_000038.jpg",
+            "can_soymilk_000019.jpg",
+            "can_soymilk_000037.jpg",
+            "can_soymilk_000032.jpg",
+            "can_soymilk_000012.jpg",
+            "can_soymilk_000003.jpg",
+            "can_soymilk_000011.jpg",
+            "can_soymilk_000048.jpg",
+            "can_soymilk_000026.jpg",
+            "can_soymilk_000047.jpg",
+            "can_soymilk_000017.jpg",
+            "can_soymilk_000018.jpg",
+            "can_soymilk_000005.jpg",
+            "can_soymilk_000049.jpg",
+            "can_soymilk_000045.jpg",
+            "can_soymilk_000028.jpg",
+            "can_soymilk_000042.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "can_soymilk_000014_2_gt.png": [
+                322,
+                139,
+                460,
+                220
+            ],
+            "can_soymilk_000003_1_gt.png": [
+                75,
+                34,
+                168,
+                179
+            ],
+            "can_soymilk_000015_2_gt.png": [
+                148,
+                198,
+                218,
+                320
+            ],
+            "can_soymilk_000033_1_gt.png": [
+                305,
+                124,
+                390,
+                275
+            ],
+            "can_soymilk_000030_1_gt.png": [
+                228,
+                166,
+                333,
+                354
+            ],
+            "can_soymilk_000022_2_gt.png": [
+                513,
+                90,
+                594,
+                206
+            ],
+            "can_soymilk_000001_1_gt.png": [
+                432,
+                101,
+                509,
+                230
+            ],
+            "can_soymilk_000020_2_gt.png": [
+                432,
+                135,
+                485,
+                226
+            ],
+            "can_soymilk_000049_1_gt.png": [
+                182,
+                149,
+                307,
+                356
+            ],
+            "can_soymilk_000004_1_gt.png": [
+                204,
+                25,
+                285,
+                153
+            ],
+            "can_soymilk_000045_1_gt.png": [
+                283,
+                194,
+                371,
+                339
+            ],
+            "can_soymilk_000009_2_gt.png": [
+                524,
+                125,
+                581,
+                245
+            ],
+            "can_soymilk_000010_1_gt.png": [
+                444,
+                290,
+                512,
+                407
+            ],
+            "can_soymilk_000007_1_gt.png": [
+                208,
+                195,
+                274,
+                298
+            ],
+            "can_soymilk_000034_2_gt.png": [
+                376,
+                118,
+                466,
+                275
+            ],
+            "can_soymilk_000025_1_gt.png": [
+                183,
+                166,
+                280,
+                333
+            ],
+            "can_soymilk_000019_1_gt.png": [
+                118,
+                165,
+                188,
+                280
+            ],
+            "can_soymilk_000015_1_gt.png": [
+                261,
+                40,
+                334,
+                155
+            ],
+            "can_soymilk_000032_2_gt.png": [
+                329,
+                112,
+                429,
+                275
+            ],
+            "can_soymilk_000010_2_gt.png": [
+                496,
+                280,
+                569,
+                396
+            ],
+            "can_soymilk_000019_2_gt.png": [
+                180,
+                162,
+                238,
+                264
+            ],
+            "can_soymilk_000038_1_gt.png": [
+                182,
+                156,
+                276,
+                298
+            ],
+            "can_soymilk_000026_1_gt.png": [
+                170,
+                160,
+                285,
+                367
+            ],
+            "can_soymilk_000027_1_gt.png": [
+                282,
+                136,
+                365,
+                281
+            ],
+            "can_soymilk_000020_1_gt.png": [
+                341,
+                125,
+                391,
+                215
+            ],
+            "can_soymilk_000031_2_gt.png": [
+                313,
+                166,
+                400,
+                330
+            ],
+            "can_soymilk_000006_1_gt.png": [
+                365,
+                168,
+                425,
+                278
+            ],
+            "can_soymilk_000008_1_gt.png": [
+                382,
+                162,
+                444,
+                290
+            ],
+            "can_soymilk_000049_2_gt.png": [
+                336,
+                151,
+                468,
+                346
+            ],
+            "can_soymilk_000016_2_gt.png": [
+                325,
+                152,
+                440,
+                227
+            ],
+            "can_soymilk_000039_1_gt.png": [
+                217,
+                138,
+                323,
+                318
+            ],
+            "can_soymilk_000021_2_gt.png": [
+                381,
+                253,
+                442,
+                350
+            ],
+            "can_soymilk_000022_1_gt.png": [
+                412,
+                110,
+                541,
+                187
+            ],
+            "can_soymilk_000037_2_gt.png": [
+                427,
+                84,
+                535,
+                230
+            ],
+            "can_soymilk_000021_1_gt.png": [
+                282,
+                253,
+                336,
+                356
+            ],
+            "can_soymilk_000031_1_gt.png": [
+                175,
+                169,
+                276,
+                339
+            ],
+            "can_soymilk_000017_2_gt.png": [
+                501,
+                304,
+                623,
+                441
+            ],
+            "can_soymilk_000036_1_gt.png": [
+                285,
+                108,
+                377,
+                274
+            ],
+            "can_soymilk_000041_1_gt.png": [
+                273,
+                158,
+                373,
+                322
+            ],
+            "can_soymilk_000008_2_gt.png": [
+                432,
+                153,
+                495,
+                269
+            ],
+            "can_soymilk_000016_1_gt.png": [
+                251,
+                89,
+                313,
+                203
+            ],
+            "can_soymilk_000047_1_gt.png": [
+                306,
+                168,
+                366,
+                302
+            ],
+            "can_soymilk_000032_1_gt.png": [
+                191,
+                168,
+                307,
+                338
+            ],
+            "can_soymilk_000038_2_gt.png": [
+                279,
+                133,
+                363,
+                278
+            ],
+            "can_soymilk_000012_1_gt.png": [
+                80,
+                180,
+                152,
+                298
+            ],
+            "can_soymilk_000042_1_gt.png": [
+                117,
+                157,
+                230,
+                318
+            ],
+            "can_soymilk_000043_1_gt.png": [
+                139,
+                125,
+                329,
+                256
+            ],
+            "can_soymilk_000014_1_gt.png": [
+                271,
+                81,
+                341,
+                208
+            ],
+            "can_soymilk_000005_1_gt.png": [
+                44,
+                288,
+                118,
+                404
+            ],
+            "can_soymilk_000011_2_gt.png": [
+                245,
+                275,
+                311,
+                401
+            ],
+            "can_soymilk_000002_1_gt.png": [
+                426,
+                174,
+                518,
+                308
+            ],
+            "can_soymilk_000023_1_gt.png": [
+                231,
+                197,
+                333,
+                371
+            ],
+            "can_soymilk_000017_1_gt.png": [
+                441,
+                204,
+                521,
+                336
+            ],
+            "can_soymilk_000009_1_gt.png": [
+                464,
+                131,
+                526,
+                249
+            ],
+            "can_soymilk_000033_2_gt.png": [
+                401,
+                124,
+                496,
+                275
+            ],
+            "can_soymilk_000013_1_gt.png": [
+                161,
+                102,
+                217,
+                206
+            ],
+            "can_soymilk_000048_1_gt.png": [
+                275,
+                102,
+                365,
+                267
+            ],
+            "can_soymilk_000037_1_gt.png": [
+                117,
+                137,
+                226,
+                293
+            ],
+            "can_soymilk_000042_2_gt.png": [
+                530,
+                190,
+                639,
+                358
+            ],
+            "can_soymilk_000050_2_gt.png": [
+                506,
+                173,
+                611,
+                336
+            ],
+            "can_soymilk_000044_1_gt.png": [
+                276,
+                136,
+                368,
+                306
+            ],
+            "can_soymilk_000035_1_gt.png": [
+                450,
+                241,
+                547,
+                416
+            ],
+            "can_soymilk_000018_1_gt.png": [
+                254,
+                71,
+                310,
+                166
+            ],
+            "can_soymilk_000050_1_gt.png": [
+                83,
+                113,
+                160,
+                255
+            ],
+            "can_soymilk_000012_2_gt.png": [
+                275,
+                298,
+                329,
+                396
+            ],
+            "can_soymilk_000024_1_gt.png": [
+                349,
+                213,
+                454,
+                393
+            ],
+            "can_soymilk_000040_1_gt.png": [
+                245,
+                152,
+                341,
+                310
+            ],
+            "can_soymilk_000028_1_gt.png": [
+                171,
+                172,
+                264,
+                322
+            ],
+            "can_soymilk_000046_1_gt.png": [
+                249,
+                106,
+                347,
+                261
+            ],
+            "can_soymilk_000018_2_gt.png": [
+                450,
+                70,
+                511,
+                173
+            ],
+            "can_soymilk_000029_1_gt.png": [
+                304,
+                175,
+                419,
+                355
+            ],
+            "can_soymilk_000011_1_gt.png": [
+                45,
+                116,
+                122,
+                238
+            ],
+            "can_soymilk_000030_2_gt.png": [
+                363,
+                168,
+                469,
+                364
+            ],
+            "can_soymilk_000034_1_gt.png": [
+                246,
+                115,
+                336,
+                267
+            ],
+            "can_soymilk_000013_2_gt.png": [
+                338,
+                233,
+                393,
+                335
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "can_soymilk_000014_2_gt.png": [
+                148,
+                85,
+                454,
+                235
+            ],
+            "can_soymilk_000003_1_gt.png": [],
+            "can_soymilk_000015_2_gt.png": [
+                482,
+                210,
+                535,
+                342
+            ],
+            "can_soymilk_000033_1_gt.png": [],
+            "can_soymilk_000030_1_gt.png": [
+                230,
+                168,
+                467,
+                355
+            ],
+            "can_soymilk_000022_2_gt.png": [
+                516,
+                64,
+                639,
+                195
+            ],
+            "can_soymilk_000001_1_gt.png": [],
+            "can_soymilk_000020_2_gt.png": [
+                348,
+                124,
+                485,
+                227
+            ],
+            "can_soymilk_000049_1_gt.png": [],
+            "can_soymilk_000004_1_gt.png": [],
+            "can_soymilk_000045_1_gt.png": [
+                287,
+                194,
+                370,
+                338
+            ],
+            "can_soymilk_000009_2_gt.png": [
+                524,
+                127,
+                582,
+                240
+            ],
+            "can_soymilk_000010_1_gt.png": [],
+            "can_soymilk_000007_1_gt.png": [],
+            "can_soymilk_000034_2_gt.png": [
+                249,
+                116,
+                466,
+                276
+            ],
+            "can_soymilk_000025_1_gt.png": [],
+            "can_soymilk_000019_1_gt.png": [],
+            "can_soymilk_000015_1_gt.png": [],
+            "can_soymilk_000032_2_gt.png": [],
+            "can_soymilk_000010_2_gt.png": [
+                458,
+                278,
+                566,
+                402
+            ],
+            "can_soymilk_000019_2_gt.png": [],
+            "can_soymilk_000038_1_gt.png": [
+                439,
+                191,
+                631,
+                396
+            ],
+            "can_soymilk_000026_1_gt.png": [
+                479,
+                34,
+                593,
+                329
+            ],
+            "can_soymilk_000027_1_gt.png": [
+                280,
+                134,
+                407,
+                280
+            ],
+            "can_soymilk_000020_1_gt.png": [],
+            "can_soymilk_000031_2_gt.png": [],
+            "can_soymilk_000006_1_gt.png": [],
+            "can_soymilk_000008_1_gt.png": [],
+            "can_soymilk_000049_2_gt.png": [],
+            "can_soymilk_000016_2_gt.png": [],
+            "can_soymilk_000039_1_gt.png": [
+                220,
+                142,
+                318,
+                314
+            ],
+            "can_soymilk_000021_2_gt.png": [
+                382,
+                254,
+                438,
+                354
+            ],
+            "can_soymilk_000022_1_gt.png": [],
+            "can_soymilk_000037_2_gt.png": [
+                433,
+                84,
+                530,
+                227
+            ],
+            "can_soymilk_000021_1_gt.png": [],
+            "can_soymilk_000031_1_gt.png": [
+                180,
+                132,
+                491,
+                340
+            ],
+            "can_soymilk_000017_2_gt.png": [
+                448,
+                283,
+                618,
+                427
+            ],
+            "can_soymilk_000036_1_gt.png": [
+                455,
+                67,
+                631,
+                246
+            ],
+            "can_soymilk_000041_1_gt.png": [],
+            "can_soymilk_000008_2_gt.png": [
+                434,
+                153,
+                491,
+                268
+            ],
+            "can_soymilk_000016_1_gt.png": [],
+            "can_soymilk_000047_1_gt.png": [],
+            "can_soymilk_000032_1_gt.png": [],
+            "can_soymilk_000038_2_gt.png": [],
+            "can_soymilk_000012_1_gt.png": [
+                78,
+                162,
+                421,
+                393
+            ],
+            "can_soymilk_000042_1_gt.png": [],
+            "can_soymilk_000043_1_gt.png": [],
+            "can_soymilk_000014_1_gt.png": [],
+            "can_soymilk_000005_1_gt.png": [
+                500,
+                243,
+                603,
+                396
+            ],
+            "can_soymilk_000011_2_gt.png": [
+                198,
+                216,
+                314,
+                403
+            ],
+            "can_soymilk_000002_1_gt.png": [
+                427,
+                178,
+                511,
+                306
+            ],
+            "can_soymilk_000023_1_gt.png": [],
+            "can_soymilk_000017_1_gt.png": [],
+            "can_soymilk_000009_1_gt.png": [],
+            "can_soymilk_000033_2_gt.png": [
+                305,
+                128,
+                492,
+                274
+            ],
+            "can_soymilk_000013_1_gt.png": [],
+            "can_soymilk_000048_1_gt.png": [
+                276,
+                103,
+                364,
+                262
+            ],
+            "can_soymilk_000037_1_gt.png": [],
+            "can_soymilk_000042_2_gt.png": [
+                534,
+                196,
+                639,
+                353
+            ],
+            "can_soymilk_000050_2_gt.png": [
+                507,
+                176,
+                610,
+                334
+            ],
+            "can_soymilk_000044_1_gt.png": [
+                276,
+                135,
+                369,
+                306
+            ],
+            "can_soymilk_000035_1_gt.png": [
+                449,
+                247,
+                546,
+                414
+            ],
+            "can_soymilk_000018_1_gt.png": [],
+            "can_soymilk_000050_1_gt.png": [],
+            "can_soymilk_000012_2_gt.png": [],
+            "can_soymilk_000024_1_gt.png": [
+                352,
+                217,
+                454,
+                372
+            ],
+            "can_soymilk_000040_1_gt.png": [
+                244,
+                55,
+                381,
+                307
+            ],
+            "can_soymilk_000028_1_gt.png": [],
+            "can_soymilk_000046_1_gt.png": [
+                98,
+                97,
+                461,
+                251
+            ],
+            "can_soymilk_000018_2_gt.png": [],
+            "can_soymilk_000029_1_gt.png": [
+                307,
+                175,
+                419,
+                342
+            ],
+            "can_soymilk_000011_1_gt.png": [],
+            "can_soymilk_000030_2_gt.png": [],
+            "can_soymilk_000034_1_gt.png": [],
+            "can_soymilk_000013_2_gt.png": [
+                338,
+                233,
+                392,
+                335
+            ]
+        },
+        "mask_images_count": 75
+    },
+    "ricepilaf": {
+        "product_images_list": [
+            "ricepilaf_000026.jpg",
+            "ricepilaf_000010.jpg",
+            "ricepilaf_000012.jpg",
+            "ricepilaf_000003.jpg",
+            "ricepilaf_000050.jpg",
+            "ricepilaf_000028.jpg",
+            "ricepilaf_000034.jpg",
+            "ricepilaf_000044.jpg",
+            "ricepilaf_000038.jpg",
+            "ricepilaf_000008.jpg",
+            "ricepilaf_000031.jpg",
+            "ricepilaf_000032.jpg",
+            "ricepilaf_000040.jpg",
+            "ricepilaf_000023.jpg",
+            "ricepilaf_000017.jpg",
+            "ricepilaf_000025.jpg",
+            "ricepilaf_000043.jpg",
+            "ricepilaf_000029.jpg",
+            "ricepilaf_000035.jpg",
+            "ricepilaf_000048.jpg",
+            "ricepilaf_000039.jpg",
+            "ricepilaf_000046.jpg",
+            "ricepilaf_000002.jpg",
+            "ricepilaf_000019.jpg",
+            "ricepilaf_000005.jpg",
+            "ricepilaf_000011.jpg",
+            "ricepilaf_000024.jpg",
+            "ricepilaf_000021.jpg",
+            "ricepilaf_000037.jpg",
+            "ricepilaf_000001.jpg",
+            "ricepilaf_000033.jpg",
+            "ricepilaf_000047.jpg",
+            "ricepilaf_000042.jpg",
+            "ricepilaf_000016.jpg",
+            "ricepilaf_000006.jpg",
+            "ricepilaf_000013.jpg",
+            "ricepilaf_000030.jpg",
+            "ricepilaf_000014.jpg",
+            "ricepilaf_000020.jpg",
+            "ricepilaf_000027.jpg",
+            "ricepilaf_000049.jpg",
+            "ricepilaf_000004.jpg",
+            "ricepilaf_000009.jpg",
+            "ricepilaf_000018.jpg",
+            "ricepilaf_000007.jpg",
+            "ricepilaf_000036.jpg",
+            "ricepilaf_000022.jpg",
+            "ricepilaf_000015.jpg",
+            "ricepilaf_000045.jpg",
+            "ricepilaf_000041.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "ricepilaf_000003_1_gt.png": [
+                314,
+                29,
+                431,
+                140
+            ],
+            "ricepilaf_000020_1_gt.png": [
+                123,
+                80,
+                248,
+                325
+            ],
+            "ricepilaf_000022_1_gt.png": [
+                117,
+                158,
+                292,
+                314
+            ],
+            "ricepilaf_000009_2_gt.png": [
+                341,
+                194,
+                462,
+                333
+            ],
+            "ricepilaf_000047_2_gt.png": [
+                341,
+                81,
+                431,
+                313
+            ],
+            "ricepilaf_000018_1_gt.png": [
+                192,
+                123,
+                286,
+                306
+            ],
+            "ricepilaf_000011_2_gt.png": [
+                393,
+                61,
+                485,
+                215
+            ],
+            "ricepilaf_000048_1_gt.png": [
+                321,
+                255,
+                412,
+                414
+            ],
+            "ricepilaf_000044_1_gt.png": [
+                249,
+                149,
+                378,
+                310
+            ],
+            "ricepilaf_000029_2_gt.png": [
+                262,
+                1,
+                369,
+                203
+            ],
+            "ricepilaf_000004_1_gt.png": [
+                275,
+                213,
+                361,
+                336
+            ],
+            "ricepilaf_000024_1_gt.png": [
+                227,
+                123,
+                360,
+                348
+            ],
+            "ricepilaf_000041_1_gt.png": [
+                311,
+                176,
+                469,
+                418
+            ],
+            "ricepilaf_000047_1_gt.png": [
+                124,
+                134,
+                349,
+                288
+            ],
+            "ricepilaf_000035_2_gt.png": [
+                202,
+                73,
+                314,
+                252
+            ],
+            "ricepilaf_000050_1_gt.png": [
+                229,
+                111,
+                344,
+                279
+            ],
+            "ricepilaf_000045_1_gt.png": [
+                314,
+                126,
+                449,
+                343
+            ],
+            "ricepilaf_000038_1_gt.png": [
+                175,
+                212,
+                301,
+                399
+            ],
+            "ricepilaf_000050_2_gt.png": [
+                235,
+                259,
+                411,
+                388
+            ],
+            "ricepilaf_000009_1_gt.png": [
+                64,
+                122,
+                163,
+                248
+            ],
+            "ricepilaf_000030_2_gt.png": [
+                83,
+                309,
+                288,
+                448
+            ],
+            "ricepilaf_000018_2_gt.png": [
+                286,
+                107,
+                427,
+                304
+            ],
+            "ricepilaf_000028_1_gt.png": [
+                293,
+                241,
+                513,
+                393
+            ],
+            "ricepilaf_000006_2_gt.png": [
+                174,
+                328,
+                268,
+                457
+            ],
+            "ricepilaf_000033_1_gt.png": [
+                165,
+                206,
+                255,
+                428
+            ],
+            "ricepilaf_000031_2_gt.png": [
+                192,
+                194,
+                385,
+                348
+            ],
+            "ricepilaf_000008_1_gt.png": [
+                40,
+                115,
+                184,
+                281
+            ],
+            "ricepilaf_000032_1_gt.png": [
+                137,
+                138,
+                306,
+                315
+            ],
+            "ricepilaf_000040_1_gt.png": [
+                195,
+                175,
+                394,
+                347
+            ],
+            "ricepilaf_000010_2_gt.png": [
+                435,
+                101,
+                543,
+                281
+            ],
+            "ricepilaf_000005_1_gt.png": [
+                150,
+                164,
+                237,
+                299
+            ],
+            "ricepilaf_000046_1_gt.png": [
+                292,
+                160,
+                454,
+                311
+            ],
+            "ricepilaf_000019_1_gt.png": [
+                158,
+                88,
+                306,
+                333
+            ],
+            "ricepilaf_000011_1_gt.png": [
+                179,
+                188,
+                346,
+                363
+            ],
+            "ricepilaf_000017_1_gt.png": [
+                317,
+                123,
+                457,
+                274
+            ],
+            "ricepilaf_000021_1_gt.png": [
+                156,
+                100,
+                289,
+                251
+            ],
+            "ricepilaf_000013_1_gt.png": [
+                245,
+                153,
+                356,
+                344
+            ],
+            "ricepilaf_000042_1_gt.png": [
+                223,
+                89,
+                303,
+                327
+            ],
+            "ricepilaf_000023_1_gt.png": [
+                316,
+                101,
+                430,
+                348
+            ],
+            "ricepilaf_000039_1_gt.png": [
+                314,
+                75,
+                391,
+                266
+            ],
+            "ricepilaf_000016_1_gt.png": [
+                255,
+                160,
+                365,
+                340
+            ],
+            "ricepilaf_000026_1_gt.png": [
+                238,
+                88,
+                361,
+                336
+            ],
+            "ricepilaf_000049_1_gt.png": [
+                128,
+                108,
+                285,
+                323
+            ],
+            "ricepilaf_000032_2_gt.png": [
+                286,
+                67,
+                407,
+                315
+            ],
+            "ricepilaf_000001_1_gt.png": [
+                417,
+                104,
+                506,
+                243
+            ],
+            "ricepilaf_000033_2_gt.png": [
+                272,
+                211,
+                388,
+                400
+            ],
+            "ricepilaf_000027_2_gt.png": [
+                224,
+                156,
+                441,
+                298
+            ],
+            "ricepilaf_000002_1_gt.png": [
+                136,
+                120,
+                264,
+                265
+            ],
+            "ricepilaf_000036_1_gt.png": [
+                210,
+                109,
+                376,
+                412
+            ],
+            "ricepilaf_000025_1_gt.png": [
+                326,
+                101,
+                426,
+                338
+            ],
+            "ricepilaf_000048_2_gt.png": [
+                416,
+                256,
+                488,
+                424
+            ],
+            "ricepilaf_000039_2_gt.png": [
+                352,
+                197,
+                545,
+                396
+            ],
+            "ricepilaf_000030_1_gt.png": [
+                191,
+                42,
+                330,
+                211
+            ],
+            "ricepilaf_000036_2_gt.png": [
+                388,
+                86,
+                561,
+                315
+            ],
+            "ricepilaf_000043_1_gt.png": [
+                275,
+                121,
+                368,
+                338
+            ],
+            "ricepilaf_000015_1_gt.png": [
+                218,
+                142,
+                330,
+                302
+            ],
+            "ricepilaf_000028_2_gt.png": [
+                101,
+                99,
+                226,
+                277
+            ],
+            "ricepilaf_000035_1_gt.png": [
+                149,
+                164,
+                296,
+                382
+            ],
+            "ricepilaf_000027_1_gt.png": [
+                88,
+                94,
+                267,
+                368
+            ],
+            "ricepilaf_000004_2_gt.png": [
+                404,
+                209,
+                516,
+                366
+            ],
+            "ricepilaf_000046_2_gt.png": [
+                104,
+                101,
+                201,
+                305
+            ],
+            "ricepilaf_000049_2_gt.png": [
+                256,
+                199,
+                432,
+                378
+            ],
+            "ricepilaf_000014_1_gt.png": [
+                247,
+                109,
+                342,
+                274
+            ],
+            "ricepilaf_000034_2_gt.png": [
+                270,
+                107,
+                394,
+                303
+            ],
+            "ricepilaf_000008_2_gt.png": [
+                162,
+                99,
+                283,
+                271
+            ],
+            "ricepilaf_000038_2_gt.png": [
+                277,
+                137,
+                370,
+                288
+            ],
+            "ricepilaf_000029_1_gt.png": [
+                132,
+                208,
+                249,
+                429
+            ],
+            "ricepilaf_000034_1_gt.png": [
+                37,
+                122,
+                200,
+                286
+            ],
+            "ricepilaf_000005_2_gt.png": [
+                388,
+                122,
+                488,
+                287
+            ],
+            "ricepilaf_000031_1_gt.png": [
+                118,
+                112,
+                231,
+                360
+            ],
+            "ricepilaf_000006_1_gt.png": [
+                307,
+                136,
+                385,
+                264
+            ],
+            "ricepilaf_000007_1_gt.png": [
+                166,
+                115,
+                256,
+                276
+            ],
+            "ricepilaf_000012_1_gt.png": [
+                266,
+                111,
+                409,
+                358
+            ],
+            "ricepilaf_000010_1_gt.png": [
+                297,
+                167,
+                439,
+                281
+            ],
+            "ricepilaf_000037_1_gt.png": [
+                142,
+                19,
+                357,
+                295
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "ricepilaf_000003_1_gt.png": [
+                280,
+                27,
+                431,
+                137
+            ],
+            "ricepilaf_000020_1_gt.png": [],
+            "ricepilaf_000022_1_gt.png": [
+                431,
+                152,
+                468,
+                256
+            ],
+            "ricepilaf_000009_2_gt.png": [],
+            "ricepilaf_000047_2_gt.png": [
+                473,
+                0,
+                531,
+                13
+            ],
+            "ricepilaf_000018_1_gt.png": [],
+            "ricepilaf_000011_2_gt.png": [],
+            "ricepilaf_000048_1_gt.png": [
+                321,
+                257,
+                409,
+                414
+            ],
+            "ricepilaf_000044_1_gt.png": [],
+            "ricepilaf_000029_2_gt.png": [
+                426,
+                275,
+                453,
+                299
+            ],
+            "ricepilaf_000004_1_gt.png": [],
+            "ricepilaf_000024_1_gt.png": [],
+            "ricepilaf_000041_1_gt.png": [
+                131,
+                227,
+                323,
+                334
+            ],
+            "ricepilaf_000047_1_gt.png": [],
+            "ricepilaf_000035_2_gt.png": [],
+            "ricepilaf_000050_1_gt.png": [],
+            "ricepilaf_000045_1_gt.png": [],
+            "ricepilaf_000038_1_gt.png": [],
+            "ricepilaf_000050_2_gt.png": [],
+            "ricepilaf_000009_1_gt.png": [],
+            "ricepilaf_000030_2_gt.png": [],
+            "ricepilaf_000018_2_gt.png": [],
+            "ricepilaf_000028_1_gt.png": [],
+            "ricepilaf_000006_2_gt.png": [
+                76,
+                330,
+                266,
+                477
+            ],
+            "ricepilaf_000033_1_gt.png": [
+                430,
+                317,
+                499,
+                460
+            ],
+            "ricepilaf_000031_2_gt.png": [],
+            "ricepilaf_000008_1_gt.png": [],
+            "ricepilaf_000032_1_gt.png": [],
+            "ricepilaf_000040_1_gt.png": [],
+            "ricepilaf_000010_2_gt.png": [],
+            "ricepilaf_000005_1_gt.png": [],
+            "ricepilaf_000046_1_gt.png": [],
+            "ricepilaf_000019_1_gt.png": [],
+            "ricepilaf_000011_1_gt.png": [],
+            "ricepilaf_000017_1_gt.png": [],
+            "ricepilaf_000021_1_gt.png": [],
+            "ricepilaf_000013_1_gt.png": [],
+            "ricepilaf_000042_1_gt.png": [],
+            "ricepilaf_000023_1_gt.png": [],
+            "ricepilaf_000039_1_gt.png": [],
+            "ricepilaf_000016_1_gt.png": [],
+            "ricepilaf_000026_1_gt.png": [],
+            "ricepilaf_000049_1_gt.png": [],
+            "ricepilaf_000032_2_gt.png": [],
+            "ricepilaf_000001_1_gt.png": [],
+            "ricepilaf_000033_2_gt.png": [],
+            "ricepilaf_000027_2_gt.png": [],
+            "ricepilaf_000002_1_gt.png": [
+                377,
+                121,
+                407,
+                135
+            ],
+            "ricepilaf_000036_1_gt.png": [],
+            "ricepilaf_000025_1_gt.png": [],
+            "ricepilaf_000048_2_gt.png": [],
+            "ricepilaf_000039_2_gt.png": [],
+            "ricepilaf_000030_1_gt.png": [],
+            "ricepilaf_000036_2_gt.png": [],
+            "ricepilaf_000043_1_gt.png": [],
+            "ricepilaf_000015_1_gt.png": [],
+            "ricepilaf_000028_2_gt.png": [],
+            "ricepilaf_000035_1_gt.png": [],
+            "ricepilaf_000027_1_gt.png": [],
+            "ricepilaf_000004_2_gt.png": [
+                406,
+                207,
+                518,
+                365
+            ],
+            "ricepilaf_000046_2_gt.png": [],
+            "ricepilaf_000049_2_gt.png": [],
+            "ricepilaf_000014_1_gt.png": [],
+            "ricepilaf_000034_2_gt.png": [],
+            "ricepilaf_000008_2_gt.png": [],
+            "ricepilaf_000038_2_gt.png": [],
+            "ricepilaf_000029_1_gt.png": [],
+            "ricepilaf_000034_1_gt.png": [],
+            "ricepilaf_000005_2_gt.png": [],
+            "ricepilaf_000031_1_gt.png": [],
+            "ricepilaf_000006_1_gt.png": [],
+            "ricepilaf_000007_1_gt.png": [],
+            "ricepilaf_000012_1_gt.png": [],
+            "ricepilaf_000010_1_gt.png": [],
+            "ricepilaf_000037_1_gt.png": []
+        },
+        "mask_images_count": 75
+    },
+    "can_chowder": {
+        "product_images_list": [
+            "can_chowder_000029.jpg",
+            "can_chowder_000006.jpg",
+            "can_chowder_000042.jpg",
+            "can_chowder_000019.jpg",
+            "can_chowder_000031.jpg",
+            "can_chowder_000045.jpg",
+            "can_chowder_000010.jpg",
+            "can_chowder_000005.jpg",
+            "can_chowder_000009.jpg",
+            "can_chowder_000008.jpg",
+            "can_chowder_000001.jpg",
+            "can_chowder_000015.jpg",
+            "can_chowder_000039.jpg",
+            "can_chowder_000016.jpg",
+            "can_chowder_000026.jpg",
+            "can_chowder_000041.jpg",
+            "can_chowder_000017.jpg",
+            "can_chowder_000037.jpg",
+            "can_chowder_000023.jpg",
+            "can_chowder_000044.jpg",
+            "can_chowder_000024.jpg",
+            "can_chowder_000047.jpg",
+            "can_chowder_000035.jpg",
+            "can_chowder_000007.jpg",
+            "can_chowder_000038.jpg",
+            "can_chowder_000049.jpg",
+            "can_chowder_000002.jpg",
+            "can_chowder_000030.jpg",
+            "can_chowder_000043.jpg",
+            "can_chowder_000027.jpg",
+            "can_chowder_000018.jpg",
+            "can_chowder_000028.jpg",
+            "can_chowder_000011.jpg",
+            "can_chowder_000021.jpg",
+            "can_chowder_000014.jpg",
+            "can_chowder_000003.jpg",
+            "can_chowder_000046.jpg",
+            "can_chowder_000022.jpg",
+            "can_chowder_000004.jpg",
+            "can_chowder_000013.jpg",
+            "can_chowder_000048.jpg",
+            "can_chowder_000012.jpg",
+            "can_chowder_000050.jpg",
+            "can_chowder_000036.jpg",
+            "can_chowder_000032.jpg",
+            "can_chowder_000020.jpg",
+            "can_chowder_000034.jpg",
+            "can_chowder_000040.jpg",
+            "can_chowder_000025.jpg",
+            "can_chowder_000033.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "can_chowder_000005_1_gt.png": [
+                87,
+                108,
+                217,
+                275
+            ],
+            "can_chowder_000035_1_gt.png": [
+                268,
+                109,
+                367,
+                247
+            ],
+            "can_chowder_000049_1_gt.png": [
+                134,
+                81,
+                219,
+                206
+            ],
+            "can_chowder_000045_1_gt.png": [
+                159,
+                182,
+                272,
+                332
+            ],
+            "can_chowder_000048_2_gt.png": [
+                399,
+                172,
+                504,
+                320
+            ],
+            "can_chowder_000001_1_gt.png": [
+                371,
+                150,
+                465,
+                291
+            ],
+            "can_chowder_000007_2_gt.png": [
+                294,
+                213,
+                368,
+                325
+            ],
+            "can_chowder_000009_2_gt.png": [
+                462,
+                45,
+                540,
+                148
+            ],
+            "can_chowder_000028_1_gt.png": [
+                250,
+                122,
+                381,
+                311
+            ],
+            "can_chowder_000013_1_gt.png": [
+                392,
+                152,
+                504,
+                315
+            ],
+            "can_chowder_000050_1_gt.png": [
+                207,
+                123,
+                282,
+                218
+            ],
+            "can_chowder_000006_2_gt.png": [
+                436,
+                129,
+                538,
+                255
+            ],
+            "can_chowder_000018_1_gt.png": [
+                109,
+                94,
+                218,
+                241
+            ],
+            "can_chowder_000016_1_gt.png": [
+                245,
+                172,
+                337,
+                280
+            ],
+            "can_chowder_000047_2_gt.png": [
+                337,
+                135,
+                423,
+                255
+            ],
+            "can_chowder_000029_1_gt.png": [
+                312,
+                44,
+                424,
+                214
+            ],
+            "can_chowder_000048_1_gt.png": [
+                97,
+                235,
+                218,
+                403
+            ],
+            "can_chowder_000012_1_gt.png": [
+                85,
+                46,
+                258,
+                185
+            ],
+            "can_chowder_000023_2_gt.png": [
+                323,
+                91,
+                424,
+                229
+            ],
+            "can_chowder_000041_1_gt.png": [
+                229,
+                161,
+                347,
+                330
+            ],
+            "can_chowder_000006_1_gt.png": [
+                175,
+                189,
+                279,
+                333
+            ],
+            "can_chowder_000031_1_gt.png": [
+                82,
+                136,
+                252,
+                355
+            ],
+            "can_chowder_000044_2_gt.png": [
+                432,
+                289,
+                575,
+                473
+            ],
+            "can_chowder_000004_1_gt.png": [
+                397,
+                96,
+                498,
+                222
+            ],
+            "can_chowder_000046_2_gt.png": [
+                222,
+                209,
+                331,
+                355
+            ],
+            "can_chowder_000011_1_gt.png": [
+                212,
+                186,
+                362,
+                317
+            ],
+            "can_chowder_000009_1_gt.png": [
+                383,
+                107,
+                462,
+                208
+            ],
+            "can_chowder_000044_1_gt.png": [
+                167,
+                144,
+                240,
+                254
+            ],
+            "can_chowder_000046_1_gt.png": [
+                206,
+                75,
+                328,
+                225
+            ],
+            "can_chowder_000025_2_gt.png": [
+                328,
+                170,
+                458,
+                350
+            ],
+            "can_chowder_000019_1_gt.png": [
+                226,
+                149,
+                329,
+                265
+            ],
+            "can_chowder_000021_1_gt.png": [
+                135,
+                130,
+                238,
+                273
+            ],
+            "can_chowder_000005_2_gt.png": [
+                450,
+                100,
+                577,
+                254
+            ],
+            "can_chowder_000002_1_gt.png": [
+                249,
+                148,
+                337,
+                279
+            ],
+            "can_chowder_000045_2_gt.png": [
+                330,
+                161,
+                435,
+                314
+            ],
+            "can_chowder_000030_1_gt.png": [
+                182,
+                122,
+                278,
+                267
+            ],
+            "can_chowder_000008_1_gt.png": [
+                365,
+                217,
+                446,
+                350
+            ],
+            "can_chowder_000014_1_gt.png": [
+                191,
+                169,
+                262,
+                280
+            ],
+            "can_chowder_000037_1_gt.png": [
+                191,
+                80,
+                312,
+                263
+            ],
+            "can_chowder_000027_2_gt.png": [
+                333,
+                111,
+                420,
+                241
+            ],
+            "can_chowder_000026_2_gt.png": [
+                418,
+                107,
+                519,
+                243
+            ],
+            "can_chowder_000010_1_gt.png": [
+                473,
+                65,
+                576,
+                193
+            ],
+            "can_chowder_000024_2_gt.png": [
+                320,
+                189,
+                413,
+                327
+            ],
+            "can_chowder_000033_1_gt.png": [
+                124,
+                138,
+                260,
+                304
+            ],
+            "can_chowder_000036_1_gt.png": [
+                182,
+                98,
+                300,
+                247
+            ],
+            "can_chowder_000007_1_gt.png": [
+                415,
+                9,
+                532,
+                162
+            ],
+            "can_chowder_000008_2_gt.png": [
+                14,
+                13,
+                169,
+                194
+            ],
+            "can_chowder_000019_2_gt.png": [
+                305,
+                159,
+                395,
+                265
+            ],
+            "can_chowder_000038_1_gt.png": [
+                198,
+                64,
+                323,
+                237
+            ],
+            "can_chowder_000049_2_gt.png": [
+                323,
+                313,
+                403,
+                415
+            ],
+            "can_chowder_000050_2_gt.png": [
+                172,
+                319,
+                261,
+                438
+            ],
+            "can_chowder_000047_1_gt.png": [
+                167,
+                275,
+                282,
+                439
+            ],
+            "can_chowder_000027_1_gt.png": [
+                101,
+                117,
+                231,
+                316
+            ],
+            "can_chowder_000020_1_gt.png": [
+                143,
+                49,
+                217,
+                165
+            ],
+            "can_chowder_000042_1_gt.png": [
+                217,
+                113,
+                310,
+                251
+            ],
+            "can_chowder_000025_1_gt.png": [
+                190,
+                116,
+                297,
+                268
+            ],
+            "can_chowder_000022_2_gt.png": [
+                225,
+                190,
+                306,
+                302
+            ],
+            "can_chowder_000017_1_gt.png": [
+                306,
+                203,
+                502,
+                473
+            ],
+            "can_chowder_000021_2_gt.png": [
+                251,
+                130,
+                345,
+                271
+            ],
+            "can_chowder_000012_2_gt.png": [
+                346,
+                23,
+                499,
+                167
+            ],
+            "can_chowder_000011_2_gt.png": [
+                465,
+                114,
+                572,
+                245
+            ],
+            "can_chowder_000010_2_gt.png": [
+                196,
+                111,
+                359,
+                223
+            ],
+            "can_chowder_000034_1_gt.png": [
+                178,
+                36,
+                293,
+                216
+            ],
+            "can_chowder_000040_1_gt.png": [
+                173,
+                139,
+                285,
+                305
+            ],
+            "can_chowder_000039_1_gt.png": [
+                137,
+                136,
+                269,
+                320
+            ],
+            "can_chowder_000026_1_gt.png": [
+                210,
+                160,
+                322,
+                320
+            ],
+            "can_chowder_000032_1_gt.png": [
+                70,
+                119,
+                249,
+                237
+            ],
+            "can_chowder_000023_1_gt.png": [
+                219,
+                149,
+                341,
+                325
+            ],
+            "can_chowder_000022_1_gt.png": [
+                151,
+                229,
+                250,
+                364
+            ],
+            "can_chowder_000018_2_gt.png": [
+                305,
+                132,
+                385,
+                235
+            ],
+            "can_chowder_000043_1_gt.png": [
+                365,
+                108,
+                494,
+                285
+            ],
+            "can_chowder_000020_2_gt.png": [
+                211,
+                285,
+                300,
+                391
+            ],
+            "can_chowder_000003_1_gt.png": [
+                398,
+                92,
+                504,
+                239
+            ],
+            "can_chowder_000024_1_gt.png": [
+                197,
+                184,
+                291,
+                321
+            ],
+            "can_chowder_000015_1_gt.png": [
+                138,
+                121,
+                211,
+                218
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "can_chowder_000005_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000035_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000049_1_gt.png": [
+                35,
+                53,
+                361,
+                203
+            ],
+            "can_chowder_000045_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000048_2_gt.png": [],
+            "can_chowder_000001_1_gt.png": [],
+            "can_chowder_000007_2_gt.png": [
+                299,
+                213,
+                369,
+                323
+            ],
+            "can_chowder_000009_2_gt.png": [],
+            "can_chowder_000028_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000013_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000050_1_gt.png": [],
+            "can_chowder_000006_2_gt.png": [
+                439,
+                132,
+                533,
+                252
+            ],
+            "can_chowder_000018_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000016_1_gt.png": [
+                246,
+                171,
+                330,
+                263
+            ],
+            "can_chowder_000047_2_gt.png": [],
+            "can_chowder_000029_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000048_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000012_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000023_2_gt.png": [],
+            "can_chowder_000041_1_gt.png": [
+                229,
+                167,
+                313,
+                298
+            ],
+            "can_chowder_000006_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000031_1_gt.png": [
+                81,
+                134,
+                364,
+                355
+            ],
+            "can_chowder_000044_2_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000004_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000046_2_gt.png": [],
+            "can_chowder_000011_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000009_1_gt.png": [
+                385,
+                106,
+                461,
+                208
+            ],
+            "can_chowder_000044_1_gt.png": [],
+            "can_chowder_000046_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000025_2_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000019_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000021_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000005_2_gt.png": [
+                451,
+                98,
+                569,
+                256
+            ],
+            "can_chowder_000002_1_gt.png": [
+                249,
+                150,
+                331,
+                278
+            ],
+            "can_chowder_000045_2_gt.png": [],
+            "can_chowder_000030_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000008_1_gt.png": [
+                333,
+                200,
+                479,
+                345
+            ],
+            "can_chowder_000014_1_gt.png": [
+                189,
+                167,
+                263,
+                277
+            ],
+            "can_chowder_000037_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000027_2_gt.png": [],
+            "can_chowder_000026_2_gt.png": [
+                419,
+                104,
+                516,
+                241
+            ],
+            "can_chowder_000010_1_gt.png": [
+                477,
+                65,
+                572,
+                190
+            ],
+            "can_chowder_000024_2_gt.png": [],
+            "can_chowder_000033_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000036_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000007_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000008_2_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000019_2_gt.png": [],
+            "can_chowder_000038_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000049_2_gt.png": [],
+            "can_chowder_000050_2_gt.png": [
+                176,
+                322,
+                271,
+                431
+            ],
+            "can_chowder_000047_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000027_1_gt.png": [
+                0,
+                120,
+                219,
+                310
+            ],
+            "can_chowder_000020_1_gt.png": [],
+            "can_chowder_000042_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000025_1_gt.png": [],
+            "can_chowder_000022_2_gt.png": [],
+            "can_chowder_000017_1_gt.png": [
+                310,
+                201,
+                500,
+                471
+            ],
+            "can_chowder_000021_2_gt.png": [
+                250,
+                131,
+                416,
+                280
+            ],
+            "can_chowder_000012_2_gt.png": [],
+            "can_chowder_000011_2_gt.png": [
+                471,
+                115,
+                565,
+                243
+            ],
+            "can_chowder_000010_2_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000034_1_gt.png": [
+                0,
+                20,
+                381,
+                224
+            ],
+            "can_chowder_000040_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000039_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000026_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000032_1_gt.png": [
+                206,
+                270,
+                470,
+                479
+            ],
+            "can_chowder_000023_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000022_1_gt.png": [
+                150,
+                192,
+                292,
+                363
+            ],
+            "can_chowder_000018_2_gt.png": [],
+            "can_chowder_000043_1_gt.png": [
+                367,
+                108,
+                488,
+                286
+            ],
+            "can_chowder_000020_2_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000003_1_gt.png": [
+                404,
+                93,
+                502,
+                238
+            ],
+            "can_chowder_000024_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ],
+            "can_chowder_000015_1_gt.png": [
+                28,
+                64,
+                545,
+                479
+            ]
+        },
+        "mask_images_count": 75
+    },
+    "hc_potroastsoup": {
+        "product_images_list": [
+            "hc_potroastsoup_000020.jpg",
+            "hc_potroastsoup_000047.jpg",
+            "hc_potroastsoup_000030.jpg",
+            "hc_potroastsoup_000038.jpg",
+            "hc_potroastsoup_000011.jpg",
+            "hc_potroastsoup_000049.jpg",
+            "hc_potroastsoup_000031.jpg",
+            "hc_potroastsoup_000043.jpg",
+            "hc_potroastsoup_000004.jpg",
+            "hc_potroastsoup_000035.jpg",
+            "hc_potroastsoup_000007.jpg",
+            "hc_potroastsoup_000018.jpg",
+            "hc_potroastsoup_000019.jpg",
+            "hc_potroastsoup_000012.jpg",
+            "hc_potroastsoup_000036.jpg",
+            "hc_potroastsoup_000010.jpg",
+            "hc_potroastsoup_000045.jpg",
+            "hc_potroastsoup_000002.jpg",
+            "hc_potroastsoup_000001.jpg",
+            "hc_potroastsoup_000026.jpg",
+            "hc_potroastsoup_000008.jpg",
+            "hc_potroastsoup_000042.jpg",
+            "hc_potroastsoup_000050.jpg",
+            "hc_potroastsoup_000021.jpg",
+            "hc_potroastsoup_000044.jpg",
+            "hc_potroastsoup_000023.jpg",
+            "hc_potroastsoup_000009.jpg",
+            "hc_potroastsoup_000041.jpg",
+            "hc_potroastsoup_000006.jpg",
+            "hc_potroastsoup_000016.jpg",
+            "hc_potroastsoup_000025.jpg",
+            "hc_potroastsoup_000039.jpg",
+            "hc_potroastsoup_000017.jpg",
+            "hc_potroastsoup_000003.jpg",
+            "hc_potroastsoup_000029.jpg",
+            "hc_potroastsoup_000032.jpg",
+            "hc_potroastsoup_000033.jpg",
+            "hc_potroastsoup_000037.jpg",
+            "hc_potroastsoup_000022.jpg",
+            "hc_potroastsoup_000024.jpg",
+            "hc_potroastsoup_000040.jpg",
+            "hc_potroastsoup_000048.jpg",
+            "hc_potroastsoup_000015.jpg",
+            "hc_potroastsoup_000028.jpg",
+            "hc_potroastsoup_000027.jpg",
+            "hc_potroastsoup_000034.jpg",
+            "hc_potroastsoup_000046.jpg",
+            "hc_potroastsoup_000005.jpg",
+            "hc_potroastsoup_000013.jpg",
+            "hc_potroastsoup_000014.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "hc_potroastsoup_000044_1_gt.png": [
+                262,
+                179,
+                364,
+                285
+            ],
+            "hc_potroastsoup_000029_2_gt.png": [
+                317,
+                167,
+                502,
+                350
+            ],
+            "hc_potroastsoup_000023_2_gt.png": [
+                97,
+                161,
+                229,
+                275
+            ],
+            "hc_potroastsoup_000022_1_gt.png": [
+                267,
+                150,
+                400,
+                284
+            ],
+            "hc_potroastsoup_000026_1_gt.png": [
+                134,
+                106,
+                292,
+                269
+            ],
+            "hc_potroastsoup_000017_1_gt.png": [
+                244,
+                95,
+                339,
+                193
+            ],
+            "hc_potroastsoup_000048_1_gt.png": [
+                168,
+                207,
+                284,
+                307
+            ],
+            "hc_potroastsoup_000011_1_gt.png": [
+                229,
+                162,
+                341,
+                272
+            ],
+            "hc_potroastsoup_000002_1_gt.png": [
+                147,
+                52,
+                267,
+                158
+            ],
+            "hc_potroastsoup_000035_1_gt.png": [
+                111,
+                135,
+                271,
+                293
+            ],
+            "hc_potroastsoup_000037_1_gt.png": [
+                248,
+                211,
+                371,
+                336
+            ],
+            "hc_potroastsoup_000050_1_gt.png": [
+                213,
+                233,
+                366,
+                397
+            ],
+            "hc_potroastsoup_000046_2_gt.png": [
+                399,
+                146,
+                604,
+                342
+            ],
+            "hc_potroastsoup_000030_2_gt.png": [
+                316,
+                169,
+                460,
+                299
+            ],
+            "hc_potroastsoup_000032_1_gt.png": [
+                144,
+                210,
+                233,
+                297
+            ],
+            "hc_potroastsoup_000028_2_gt.png": [
+                301,
+                229,
+                416,
+                344
+            ],
+            "hc_potroastsoup_000015_1_gt.png": [
+                233,
+                137,
+                345,
+                227
+            ],
+            "hc_potroastsoup_000004_1_gt.png": [
+                263,
+                275,
+                358,
+                367
+            ],
+            "hc_potroastsoup_000042_1_gt.png": [
+                257,
+                263,
+                376,
+                393
+            ],
+            "hc_potroastsoup_000045_1_gt.png": [
+                240,
+                28,
+                345,
+                115
+            ],
+            "hc_potroastsoup_000031_2_gt.png": [
+                160,
+                381,
+                240,
+                463
+            ],
+            "hc_potroastsoup_000027_2_gt.png": [
+                251,
+                184,
+                411,
+                351
+            ],
+            "hc_potroastsoup_000008_1_gt.png": [
+                284,
+                53,
+                372,
+                125
+            ],
+            "hc_potroastsoup_000034_2_gt.png": [
+                291,
+                152,
+                396,
+                255
+            ],
+            "hc_potroastsoup_000046_1_gt.png": [
+                128,
+                205,
+                211,
+                296
+            ],
+            "hc_potroastsoup_000009_1_gt.png": [
+                54,
+                106,
+                178,
+                223
+            ],
+            "hc_potroastsoup_000043_1_gt.png": [
+                250,
+                212,
+                370,
+                332
+            ],
+            "hc_potroastsoup_000035_2_gt.png": [
+                235,
+                95,
+                368,
+                224
+            ],
+            "hc_potroastsoup_000048_2_gt.png": [
+                298,
+                218,
+                419,
+                345
+            ],
+            "hc_potroastsoup_000023_1_gt.png": [
+                101,
+                62,
+                230,
+                186
+            ],
+            "hc_potroastsoup_000006_2_gt.png": [
+                356,
+                235,
+                454,
+                330
+            ],
+            "hc_potroastsoup_000047_1_gt.png": [
+                190,
+                157,
+                293,
+                234
+            ],
+            "hc_potroastsoup_000006_1_gt.png": [
+                350,
+                161,
+                460,
+                271
+            ],
+            "hc_potroastsoup_000039_2_gt.png": [
+                118,
+                214,
+                235,
+                326
+            ],
+            "hc_potroastsoup_000047_2_gt.png": [
+                289,
+                151,
+                396,
+                233
+            ],
+            "hc_potroastsoup_000020_1_gt.png": [
+                220,
+                134,
+                354,
+                272
+            ],
+            "hc_potroastsoup_000041_1_gt.png": [
+                262,
+                153,
+                403,
+                297
+            ],
+            "hc_potroastsoup_000045_2_gt.png": [
+                181,
+                373,
+                261,
+                466
+            ],
+            "hc_potroastsoup_000003_1_gt.png": [
+                272,
+                217,
+                364,
+                295
+            ],
+            "hc_potroastsoup_000025_1_gt.png": [
+                294,
+                30,
+                402,
+                148
+            ],
+            "hc_potroastsoup_000033_1_gt.png": [
+                215,
+                17,
+                327,
+                119
+            ],
+            "hc_potroastsoup_000030_1_gt.png": [
+                228,
+                155,
+                324,
+                244
+            ],
+            "hc_potroastsoup_000049_2_gt.png": [
+                273,
+                146,
+                384,
+                274
+            ],
+            "hc_potroastsoup_000014_1_gt.png": [
+                191,
+                163,
+                310,
+                264
+            ],
+            "hc_potroastsoup_000050_2_gt.png": [
+                349,
+                141,
+                457,
+                254
+            ],
+            "hc_potroastsoup_000024_2_gt.png": [
+                274,
+                180,
+                371,
+                259
+            ],
+            "hc_potroastsoup_000049_1_gt.png": [
+                145,
+                196,
+                276,
+                327
+            ],
+            "hc_potroastsoup_000001_1_gt.png": [
+                147,
+                191,
+                289,
+                340
+            ],
+            "hc_potroastsoup_000019_1_gt.png": [
+                249,
+                146,
+                358,
+                263
+            ],
+            "hc_potroastsoup_000031_1_gt.png": [
+                315,
+                23,
+                397,
+                101
+            ],
+            "hc_potroastsoup_000034_1_gt.png": [
+                175,
+                153,
+                269,
+                246
+            ],
+            "hc_potroastsoup_000025_2_gt.png": [
+                176,
+                299,
+                312,
+                412
+            ],
+            "hc_potroastsoup_000024_1_gt.png": [
+                285,
+                111,
+                378,
+                199
+            ],
+            "hc_potroastsoup_000026_2_gt.png": [
+                274,
+                148,
+                439,
+                311
+            ],
+            "hc_potroastsoup_000009_2_gt.png": [
+                63,
+                184,
+                183,
+                301
+            ],
+            "hc_potroastsoup_000007_1_gt.png": [
+                133,
+                195,
+                225,
+                275
+            ],
+            "hc_potroastsoup_000027_1_gt.png": [
+                209,
+                74,
+                315,
+                192
+            ],
+            "hc_potroastsoup_000039_1_gt.png": [
+                113,
+                123,
+                232,
+                227
+            ],
+            "hc_potroastsoup_000038_1_gt.png": [
+                272,
+                192,
+                396,
+                315
+            ],
+            "hc_potroastsoup_000044_2_gt.png": [
+                381,
+                162,
+                474,
+                266
+            ],
+            "hc_potroastsoup_000008_2_gt.png": [
+                290,
+                126,
+                374,
+                193
+            ],
+            "hc_potroastsoup_000028_1_gt.png": [
+                304,
+                130,
+                426,
+                255
+            ],
+            "hc_potroastsoup_000018_1_gt.png": [
+                176,
+                111,
+                306,
+                256
+            ],
+            "hc_potroastsoup_000040_1_gt.png": [
+                198,
+                175,
+                289,
+                246
+            ],
+            "hc_potroastsoup_000036_1_gt.png": [
+                265,
+                165,
+                361,
+                261
+            ],
+            "hc_potroastsoup_000021_1_gt.png": [
+                240,
+                118,
+                367,
+                256
+            ],
+            "hc_potroastsoup_000007_2_gt.png": [
+                234,
+                198,
+                325,
+                281
+            ],
+            "hc_potroastsoup_000040_2_gt.png": [
+                205,
+                242,
+                293,
+                322
+            ],
+            "hc_potroastsoup_000029_1_gt.png": [
+                151,
+                145,
+                246,
+                240
+            ],
+            "hc_potroastsoup_000005_1_gt.png": [
+                316,
+                260,
+                441,
+                375
+            ],
+            "hc_potroastsoup_000012_1_gt.png": [
+                262,
+                205,
+                353,
+                292
+            ],
+            "hc_potroastsoup_000010_1_gt.png": [
+                151,
+                109,
+                294,
+                232
+            ],
+            "hc_potroastsoup_000033_2_gt.png": [
+                206,
+                281,
+                310,
+                381
+            ],
+            "hc_potroastsoup_000013_1_gt.png": [
+                311,
+                172,
+                446,
+                320
+            ],
+            "hc_potroastsoup_000016_1_gt.png": [
+                222,
+                195,
+                329,
+                282
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "hc_potroastsoup_000044_1_gt.png": [
+                263,
+                172,
+                471,
+                284
+            ],
+            "hc_potroastsoup_000029_2_gt.png": [
+                319,
+                173,
+                507,
+                349
+            ],
+            "hc_potroastsoup_000023_2_gt.png": [],
+            "hc_potroastsoup_000022_1_gt.png": [
+                292,
+                155,
+                396,
+                285
+            ],
+            "hc_potroastsoup_000026_1_gt.png": [
+                133,
+                115,
+                287,
+                269
+            ],
+            "hc_potroastsoup_000017_1_gt.png": [],
+            "hc_potroastsoup_000048_1_gt.png": [],
+            "hc_potroastsoup_000011_1_gt.png": [],
+            "hc_potroastsoup_000002_1_gt.png": [
+                152,
+                42,
+                267,
+                148
+            ],
+            "hc_potroastsoup_000035_1_gt.png": [],
+            "hc_potroastsoup_000037_1_gt.png": [],
+            "hc_potroastsoup_000050_1_gt.png": [],
+            "hc_potroastsoup_000046_2_gt.png": [
+                404,
+                150,
+                602,
+                345
+            ],
+            "hc_potroastsoup_000030_2_gt.png": [
+                226,
+                158,
+                451,
+                297
+            ],
+            "hc_potroastsoup_000032_1_gt.png": [],
+            "hc_potroastsoup_000028_2_gt.png": [],
+            "hc_potroastsoup_000015_1_gt.png": [],
+            "hc_potroastsoup_000004_1_gt.png": [
+                259,
+                280,
+                355,
+                366
+            ],
+            "hc_potroastsoup_000042_1_gt.png": [],
+            "hc_potroastsoup_000045_1_gt.png": [
+                238,
+                28,
+                342,
+                118
+            ],
+            "hc_potroastsoup_000031_2_gt.png": [
+                158,
+                383,
+                234,
+                464
+            ],
+            "hc_potroastsoup_000027_2_gt.png": [],
+            "hc_potroastsoup_000008_1_gt.png": [
+                278,
+                54,
+                371,
+                191
+            ],
+            "hc_potroastsoup_000034_2_gt.png": [],
+            "hc_potroastsoup_000046_1_gt.png": [],
+            "hc_potroastsoup_000009_1_gt.png": [],
+            "hc_potroastsoup_000043_1_gt.png": [
+                250,
+                220,
+                361,
+                332
+            ],
+            "hc_potroastsoup_000035_2_gt.png": [
+                239,
+                101,
+                360,
+                223
+            ],
+            "hc_potroastsoup_000048_2_gt.png": [
+                297,
+                222,
+                478,
+                342
+            ],
+            "hc_potroastsoup_000023_1_gt.png": [],
+            "hc_potroastsoup_000006_2_gt.png": [],
+            "hc_potroastsoup_000047_1_gt.png": [],
+            "hc_potroastsoup_000006_1_gt.png": [
+                352,
+                162,
+                461,
+                334
+            ],
+            "hc_potroastsoup_000039_2_gt.png": [],
+            "hc_potroastsoup_000047_2_gt.png": [
+                199,
+                149,
+                392,
+                232
+            ],
+            "hc_potroastsoup_000020_1_gt.png": [
+                0,
+                235,
+                526,
+                478
+            ],
+            "hc_potroastsoup_000041_1_gt.png": [],
+            "hc_potroastsoup_000045_2_gt.png": [],
+            "hc_potroastsoup_000003_1_gt.png": [
+                277,
+                223,
+                364,
+                299
+            ],
+            "hc_potroastsoup_000025_1_gt.png": [],
+            "hc_potroastsoup_000033_1_gt.png": [],
+            "hc_potroastsoup_000030_1_gt.png": [],
+            "hc_potroastsoup_000049_2_gt.png": [],
+            "hc_potroastsoup_000014_1_gt.png": [],
+            "hc_potroastsoup_000050_2_gt.png": [
+                352,
+                145,
+                417,
+                258
+            ],
+            "hc_potroastsoup_000024_2_gt.png": [],
+            "hc_potroastsoup_000049_1_gt.png": [
+                155,
+                128,
+                380,
+                323
+            ],
+            "hc_potroastsoup_000001_1_gt.png": [],
+            "hc_potroastsoup_000019_1_gt.png": [
+                264,
+                148,
+                363,
+                338
+            ],
+            "hc_potroastsoup_000031_1_gt.png": [],
+            "hc_potroastsoup_000034_1_gt.png": [],
+            "hc_potroastsoup_000025_2_gt.png": [],
+            "hc_potroastsoup_000024_1_gt.png": [],
+            "hc_potroastsoup_000026_2_gt.png": [],
+            "hc_potroastsoup_000009_2_gt.png": [],
+            "hc_potroastsoup_000007_1_gt.png": [],
+            "hc_potroastsoup_000027_1_gt.png": [
+                209,
+                79,
+                313,
+                195
+            ],
+            "hc_potroastsoup_000039_1_gt.png": [],
+            "hc_potroastsoup_000038_1_gt.png": [
+                281,
+                234,
+                397,
+                315
+            ],
+            "hc_potroastsoup_000044_2_gt.png": [],
+            "hc_potroastsoup_000008_2_gt.png": [],
+            "hc_potroastsoup_000028_1_gt.png": [
+                306,
+                134,
+                430,
+                421
+            ],
+            "hc_potroastsoup_000018_1_gt.png": [],
+            "hc_potroastsoup_000040_1_gt.png": [],
+            "hc_potroastsoup_000036_1_gt.png": [],
+            "hc_potroastsoup_000021_1_gt.png": [
+                240,
+                123,
+                364,
+                257
+            ],
+            "hc_potroastsoup_000007_2_gt.png": [],
+            "hc_potroastsoup_000040_2_gt.png": [],
+            "hc_potroastsoup_000029_1_gt.png": [],
+            "hc_potroastsoup_000005_1_gt.png": [
+                316,
+                269,
+                439,
+                376
+            ],
+            "hc_potroastsoup_000012_1_gt.png": [],
+            "hc_potroastsoup_000010_1_gt.png": [],
+            "hc_potroastsoup_000033_2_gt.png": [
+                209,
+                287,
+                311,
+                385
+            ],
+            "hc_potroastsoup_000013_1_gt.png": [
+                310,
+                174,
+                448,
+                317
+            ],
+            "hc_potroastsoup_000016_1_gt.png": []
+        },
+        "mask_images_count": 75
+    },
+    "diet_coke": {
+        "product_images_list": [
+            "diet_coke_000026.jpg",
+            "diet_coke_000034.jpg",
+            "diet_coke_000007.jpg",
+            "diet_coke_000001.jpg",
+            "diet_coke_000027.jpg",
+            "diet_coke_000033.jpg",
+            "diet_coke_000021.jpg",
+            "diet_coke_000003.jpg",
+            "diet_coke_000012.jpg",
+            "diet_coke_000044.jpg",
+            "diet_coke_000028.jpg",
+            "diet_coke_000018.jpg",
+            "diet_coke_000016.jpg",
+            "diet_coke_000035.jpg",
+            "diet_coke_000023.jpg",
+            "diet_coke_000010.jpg",
+            "diet_coke_000022.jpg",
+            "diet_coke_000019.jpg",
+            "diet_coke_000029.jpg",
+            "diet_coke_000040.jpg",
+            "diet_coke_000047.jpg",
+            "diet_coke_000011.jpg",
+            "diet_coke_000024.jpg",
+            "diet_coke_000017.jpg",
+            "diet_coke_000032.jpg",
+            "diet_coke_000031.jpg",
+            "diet_coke_000005.jpg",
+            "diet_coke_000013.jpg",
+            "diet_coke_000050.jpg",
+            "diet_coke_000006.jpg",
+            "diet_coke_000036.jpg",
+            "diet_coke_000030.jpg",
+            "diet_coke_000041.jpg",
+            "diet_coke_000014.jpg",
+            "diet_coke_000002.jpg",
+            "diet_coke_000020.jpg",
+            "diet_coke_000038.jpg",
+            "diet_coke_000046.jpg",
+            "diet_coke_000049.jpg",
+            "diet_coke_000025.jpg",
+            "diet_coke_000043.jpg",
+            "diet_coke_000015.jpg",
+            "diet_coke_000045.jpg",
+            "diet_coke_000008.jpg",
+            "diet_coke_000039.jpg",
+            "diet_coke_000042.jpg",
+            "diet_coke_000009.jpg",
+            "diet_coke_000048.jpg",
+            "diet_coke_000037.jpg",
+            "diet_coke_000004.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "diet_coke_000050_1_gt.png": [
+                179,
+                227,
+                250,
+                334
+            ],
+            "diet_coke_000013_2_gt.png": [
+                271,
+                343,
+                326,
+                450
+            ],
+            "diet_coke_000021_1_gt.png": [
+                53,
+                197,
+                168,
+                340
+            ],
+            "diet_coke_000031_1_gt.png": [
+                181,
+                180,
+                266,
+                340
+            ],
+            "diet_coke_000039_2_gt.png": [
+                343,
+                43,
+                414,
+                175
+            ],
+            "diet_coke_000049_1_gt.png": [
+                122,
+                135,
+                214,
+                280
+            ],
+            "diet_coke_000039_1_gt.png": [
+                238,
+                62,
+                300,
+                193
+            ],
+            "diet_coke_000045_2_gt.png": [
+                199,
+                173,
+                293,
+                351
+            ],
+            "diet_coke_000044_2_gt.png": [
+                140,
+                178,
+                249,
+                363
+            ],
+            "diet_coke_000002_1_gt.png": [
+                400,
+                139,
+                478,
+                282
+            ],
+            "diet_coke_000009_1_gt.png": [
+                369,
+                115,
+                473,
+                293
+            ],
+            "diet_coke_000018_2_gt.png": [
+                253,
+                135,
+                342,
+                299
+            ],
+            "diet_coke_000026_1_gt.png": [
+                199,
+                124,
+                290,
+                290
+            ],
+            "diet_coke_000035_2_gt.png": [
+                347,
+                189,
+                427,
+                334
+            ],
+            "diet_coke_000012_1_gt.png": [
+                114,
+                102,
+                212,
+                241
+            ],
+            "diet_coke_000040_2_gt.png": [
+                383,
+                148,
+                462,
+                276
+            ],
+            "diet_coke_000010_1_gt.png": [
+                192,
+                102,
+                300,
+                283
+            ],
+            "diet_coke_000037_1_gt.png": [
+                115,
+                185,
+                176,
+                276
+            ],
+            "diet_coke_000034_1_gt.png": [
+                171,
+                173,
+                241,
+                310
+            ],
+            "diet_coke_000014_2_gt.png": [
+                326,
+                184,
+                418,
+                346
+            ],
+            "diet_coke_000032_1_gt.png": [
+                139,
+                229,
+                226,
+                399
+            ],
+            "diet_coke_000023_2_gt.png": [
+                228,
+                47,
+                303,
+                193
+            ],
+            "diet_coke_000046_1_gt.png": [
+                195,
+                81,
+                264,
+                230
+            ],
+            "diet_coke_000030_1_gt.png": [
+                57,
+                149,
+                183,
+                324
+            ],
+            "diet_coke_000036_2_gt.png": [
+                141,
+                306,
+                199,
+                416
+            ],
+            "diet_coke_000027_1_gt.png": [
+                189,
+                148,
+                269,
+                274
+            ],
+            "diet_coke_000011_1_gt.png": [
+                98,
+                120,
+                221,
+                315
+            ],
+            "diet_coke_000016_1_gt.png": [
+                82,
+                162,
+                226,
+                362
+            ],
+            "diet_coke_000021_2_gt.png": [
+                426,
+                106,
+                496,
+                238
+            ],
+            "diet_coke_000013_1_gt.png": [
+                215,
+                23,
+                277,
+                132
+            ],
+            "diet_coke_000048_2_gt.png": [
+                338,
+                4,
+                413,
+                113
+            ],
+            "diet_coke_000022_2_gt.png": [
+                257,
+                178,
+                372,
+                386
+            ],
+            "diet_coke_000029_1_gt.png": [
+                98,
+                166,
+                214,
+                364
+            ],
+            "diet_coke_000006_1_gt.png": [
+                302,
+                94,
+                408,
+                314
+            ],
+            "diet_coke_000012_2_gt.png": [
+                452,
+                101,
+                536,
+                257
+            ],
+            "diet_coke_000045_1_gt.png": [
+                65,
+                174,
+                168,
+                354
+            ],
+            "diet_coke_000001_1_gt.png": [
+                354,
+                104,
+                446,
+                278
+            ],
+            "diet_coke_000015_2_gt.png": [
+                223,
+                104,
+                331,
+                284
+            ],
+            "diet_coke_000023_1_gt.png": [
+                95,
+                131,
+                205,
+                305
+            ],
+            "diet_coke_000044_1_gt.png": [
+                221,
+                70,
+                303,
+                226
+            ],
+            "diet_coke_000019_2_gt.png": [
+                331,
+                149,
+                438,
+                345
+            ],
+            "diet_coke_000007_1_gt.png": [
+                257,
+                85,
+                342,
+                247
+            ],
+            "diet_coke_000017_1_gt.png": [
+                349,
+                195,
+                455,
+                374
+            ],
+            "diet_coke_000047_2_gt.png": [
+                376,
+                136,
+                506,
+                371
+            ],
+            "diet_coke_000004_1_gt.png": [
+                226,
+                207,
+                305,
+                342
+            ],
+            "diet_coke_000049_2_gt.png": [
+                431,
+                215,
+                557,
+                410
+            ],
+            "diet_coke_000038_2_gt.png": [
+                343,
+                157,
+                443,
+                329
+            ],
+            "diet_coke_000019_1_gt.png": [
+                239,
+                112,
+                324,
+                279
+            ],
+            "diet_coke_000014_1_gt.png": [
+                215,
+                227,
+                312,
+                402
+            ],
+            "diet_coke_000037_2_gt.png": [
+                405,
+                51,
+                535,
+                230
+            ],
+            "diet_coke_000025_1_gt.png": [
+                255,
+                95,
+                350,
+                267
+            ],
+            "diet_coke_000036_1_gt.png": [
+                442,
+                32,
+                536,
+                202
+            ],
+            "diet_coke_000047_1_gt.png": [
+                330,
+                62,
+                405,
+                186
+            ],
+            "diet_coke_000038_1_gt.png": [
+                194,
+                136,
+                281,
+                313
+            ],
+            "diet_coke_000005_1_gt.png": [
+                211,
+                91,
+                314,
+                277
+            ],
+            "diet_coke_000048_1_gt.png": [
+                232,
+                198,
+                329,
+                354
+            ],
+            "diet_coke_000020_2_gt.png": [
+                292,
+                144,
+                387,
+                303
+            ],
+            "diet_coke_000042_1_gt.png": [
+                239,
+                127,
+                334,
+                300
+            ],
+            "diet_coke_000018_1_gt.png": [
+                100,
+                174,
+                215,
+                350
+            ],
+            "diet_coke_000008_1_gt.png": [
+                351,
+                118,
+                413,
+                231
+            ],
+            "diet_coke_000028_1_gt.png": [
+                141,
+                98,
+                236,
+                271
+            ],
+            "diet_coke_000016_2_gt.png": [
+                301,
+                81,
+                404,
+                266
+            ],
+            "diet_coke_000015_1_gt.png": [
+                102,
+                129,
+                227,
+                311
+            ],
+            "diet_coke_000043_1_gt.png": [
+                217,
+                107,
+                292,
+                240
+            ],
+            "diet_coke_000022_1_gt.png": [
+                154,
+                121,
+                247,
+                294
+            ],
+            "diet_coke_000024_1_gt.png": [
+                147,
+                71,
+                233,
+                230
+            ],
+            "diet_coke_000050_2_gt.png": [
+                242,
+                251,
+                316,
+                371
+            ],
+            "diet_coke_000046_2_gt.png": [
+                235,
+                124,
+                321,
+                287
+            ],
+            "diet_coke_000003_1_gt.png": [
+                210,
+                65,
+                324,
+                275
+            ],
+            "diet_coke_000041_1_gt.png": [
+                248,
+                113,
+                331,
+                270
+            ],
+            "diet_coke_000040_1_gt.png": [
+                295,
+                119,
+                355,
+                231
+            ],
+            "diet_coke_000011_2_gt.png": [
+                364,
+                129,
+                498,
+                356
+            ],
+            "diet_coke_000035_1_gt.png": [
+                265,
+                180,
+                337,
+                320
+            ],
+            "diet_coke_000033_1_gt.png": [
+                194,
+                77,
+                266,
+                225
+            ],
+            "diet_coke_000020_1_gt.png": [
+                210,
+                125,
+                302,
+                281
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "diet_coke_000050_1_gt.png": [],
+            "diet_coke_000013_2_gt.png": [],
+            "diet_coke_000021_1_gt.png": [
+                0,
+                195,
+                401,
+                449
+            ],
+            "diet_coke_000031_1_gt.png": [
+                178,
+                184,
+                391,
+                312
+            ],
+            "diet_coke_000039_2_gt.png": [],
+            "diet_coke_000049_1_gt.png": [],
+            "diet_coke_000039_1_gt.png": [
+                0,
+                47,
+                405,
+                201
+            ],
+            "diet_coke_000045_2_gt.png": [
+                199,
+                171,
+                353,
+                347
+            ],
+            "diet_coke_000044_2_gt.png": [
+                141,
+                72,
+                301,
+                356
+            ],
+            "diet_coke_000002_1_gt.png": [
+                401,
+                141,
+                478,
+                280
+            ],
+            "diet_coke_000009_1_gt.png": [],
+            "diet_coke_000018_2_gt.png": [],
+            "diet_coke_000026_1_gt.png": [
+                203,
+                126,
+                441,
+                310
+            ],
+            "diet_coke_000035_2_gt.png": [
+                267,
+                182,
+                422,
+                327
+            ],
+            "diet_coke_000012_1_gt.png": [],
+            "diet_coke_000040_2_gt.png": [],
+            "diet_coke_000010_1_gt.png": [],
+            "diet_coke_000037_1_gt.png": [],
+            "diet_coke_000034_1_gt.png": [
+                266,
+                0,
+                528,
+                203
+            ],
+            "diet_coke_000014_2_gt.png": [],
+            "diet_coke_000032_1_gt.png": [
+                130,
+                218,
+                341,
+                396
+            ],
+            "diet_coke_000023_2_gt.png": [
+                229,
+                12,
+                300,
+                188
+            ],
+            "diet_coke_000046_1_gt.png": [],
+            "diet_coke_000030_1_gt.png": [],
+            "diet_coke_000036_2_gt.png": [],
+            "diet_coke_000027_1_gt.png": [],
+            "diet_coke_000011_1_gt.png": [],
+            "diet_coke_000016_1_gt.png": [
+                81,
+                161,
+                331,
+                362
+            ],
+            "diet_coke_000021_2_gt.png": [],
+            "diet_coke_000013_1_gt.png": [
+                214,
+                22,
+                315,
+                126
+            ],
+            "diet_coke_000048_2_gt.png": [],
+            "diet_coke_000022_2_gt.png": [
+                193,
+                126,
+                369,
+                382
+            ],
+            "diet_coke_000029_1_gt.png": [
+                90,
+                165,
+                321,
+                353
+            ],
+            "diet_coke_000006_1_gt.png": [
+                333,
+                99,
+                406,
+                286
+            ],
+            "diet_coke_000012_2_gt.png": [
+                454,
+                105,
+                534,
+                255
+            ],
+            "diet_coke_000045_1_gt.png": [],
+            "diet_coke_000001_1_gt.png": [],
+            "diet_coke_000015_2_gt.png": [
+                121,
+                105,
+                418,
+                285
+            ],
+            "diet_coke_000023_1_gt.png": [],
+            "diet_coke_000044_1_gt.png": [],
+            "diet_coke_000019_2_gt.png": [
+                180,
+                113,
+                432,
+                338
+            ],
+            "diet_coke_000007_1_gt.png": [],
+            "diet_coke_000017_1_gt.png": [
+                352,
+                200,
+                450,
+                374
+            ],
+            "diet_coke_000047_2_gt.png": [
+                378,
+                137,
+                504,
+                365
+            ],
+            "diet_coke_000004_1_gt.png": [],
+            "diet_coke_000049_2_gt.png": [
+                439,
+                218,
+                554,
+                428
+            ],
+            "diet_coke_000038_2_gt.png": [
+                346,
+                156,
+                488,
+                454
+            ],
+            "diet_coke_000019_1_gt.png": [],
+            "diet_coke_000014_1_gt.png": [
+                219,
+                190,
+                413,
+                400
+            ],
+            "diet_coke_000037_2_gt.png": [
+                410,
+                48,
+                540,
+                230
+            ],
+            "diet_coke_000025_1_gt.png": [
+                260,
+                94,
+                334,
+                260
+            ],
+            "diet_coke_000036_1_gt.png": [
+                443,
+                30,
+                619,
+                202
+            ],
+            "diet_coke_000047_1_gt.png": [],
+            "diet_coke_000038_1_gt.png": [],
+            "diet_coke_000005_1_gt.png": [],
+            "diet_coke_000048_1_gt.png": [],
+            "diet_coke_000020_2_gt.png": [],
+            "diet_coke_000042_1_gt.png": [
+                240,
+                131,
+                332,
+                297
+            ],
+            "diet_coke_000018_1_gt.png": [
+                106,
+                173,
+                331,
+                352
+            ],
+            "diet_coke_000008_1_gt.png": [
+                354,
+                117,
+                405,
+                232
+            ],
+            "diet_coke_000028_1_gt.png": [],
+            "diet_coke_000016_2_gt.png": [],
+            "diet_coke_000015_1_gt.png": [],
+            "diet_coke_000043_1_gt.png": [],
+            "diet_coke_000022_1_gt.png": [],
+            "diet_coke_000024_1_gt.png": [],
+            "diet_coke_000050_2_gt.png": [],
+            "diet_coke_000046_2_gt.png": [],
+            "diet_coke_000003_1_gt.png": [
+                209,
+                65,
+                320,
+                271
+            ],
+            "diet_coke_000041_1_gt.png": [],
+            "diet_coke_000040_1_gt.png": [],
+            "diet_coke_000011_2_gt.png": [
+                367,
+                137,
+                489,
+                357
+            ],
+            "diet_coke_000035_1_gt.png": [],
+            "diet_coke_000033_1_gt.png": [
+                193,
+                102,
+                275,
+                218
+            ],
+            "diet_coke_000020_1_gt.png": [
+                210,
+                128,
+                376,
+                305
+            ]
+        },
+        "mask_images_count": 75
+    },
+    "carton_oj": {
+        "product_images_list": [
+            "carton_oj_000018.jpg",
+            "carton_oj_000005.jpg",
+            "carton_oj_000038.jpg",
+            "carton_oj_000046.jpg",
+            "carton_oj_000007.jpg",
+            "carton_oj_000040.jpg",
+            "carton_oj_000027.jpg",
+            "carton_oj_000010.jpg",
+            "carton_oj_000043.jpg",
+            "carton_oj_000019.jpg",
+            "carton_oj_000026.jpg",
+            "carton_oj_000042.jpg",
+            "carton_oj_000003.jpg",
+            "carton_oj_000020.jpg",
+            "carton_oj_000013.jpg",
+            "carton_oj_000021.jpg",
+            "carton_oj_000037.jpg",
+            "carton_oj_000029.jpg",
+            "carton_oj_000004.jpg",
+            "carton_oj_000025.jpg",
+            "carton_oj_000009.jpg",
+            "carton_oj_000032.jpg",
+            "carton_oj_000049.jpg",
+            "carton_oj_000008.jpg",
+            "carton_oj_000034.jpg",
+            "carton_oj_000035.jpg",
+            "carton_oj_000022.jpg",
+            "carton_oj_000044.jpg",
+            "carton_oj_000031.jpg",
+            "carton_oj_000024.jpg",
+            "carton_oj_000030.jpg",
+            "carton_oj_000012.jpg",
+            "carton_oj_000041.jpg",
+            "carton_oj_000015.jpg",
+            "carton_oj_000016.jpg",
+            "carton_oj_000002.jpg",
+            "carton_oj_000001.jpg",
+            "carton_oj_000033.jpg",
+            "carton_oj_000014.jpg",
+            "carton_oj_000006.jpg",
+            "carton_oj_000028.jpg",
+            "carton_oj_000036.jpg",
+            "carton_oj_000045.jpg",
+            "carton_oj_000023.jpg",
+            "carton_oj_000039.jpg",
+            "carton_oj_000048.jpg",
+            "carton_oj_000017.jpg",
+            "carton_oj_000011.jpg",
+            "carton_oj_000050.jpg",
+            "carton_oj_000047.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "carton_oj_000047_1_gt.png": [
+                369,
+                103,
+                491,
+                305
+            ],
+            "carton_oj_000045_2_gt.png": [
+                242,
+                96,
+                380,
+                350
+            ],
+            "carton_oj_000046_1_gt.png": [
+                254,
+                118,
+                391,
+                386
+            ],
+            "carton_oj_000007_2_gt.png": [
+                371,
+                12,
+                501,
+                259
+            ],
+            "carton_oj_000050_1_gt.png": [
+                103,
+                102,
+                243,
+                308
+            ],
+            "carton_oj_000018_2_gt.png": [
+                328,
+                112,
+                416,
+                280
+            ],
+            "carton_oj_000020_1_gt.png": [
+                249,
+                137,
+                335,
+                306
+            ],
+            "carton_oj_000009_1_gt.png": [
+                377,
+                121,
+                490,
+                325
+            ],
+            "carton_oj_000026_1_gt.png": [
+                138,
+                71,
+                274,
+                334
+            ],
+            "carton_oj_000049_2_gt.png": [
+                336,
+                66,
+                454,
+                238
+            ],
+            "carton_oj_000016_2_gt.png": [
+                315,
+                166,
+                427,
+                347
+            ],
+            "carton_oj_000043_1_gt.png": [
+                238,
+                100,
+                382,
+                329
+            ],
+            "carton_oj_000013_2_gt.png": [
+                346,
+                221,
+                482,
+                443
+            ],
+            "carton_oj_000042_1_gt.png": [
+                175,
+                56,
+                287,
+                277
+            ],
+            "carton_oj_000028_1_gt.png": [
+                258,
+                62,
+                388,
+                293
+            ],
+            "carton_oj_000036_1_gt.png": [
+                392,
+                78,
+                476,
+                269
+            ],
+            "carton_oj_000024_1_gt.png": [
+                197,
+                110,
+                370,
+                412
+            ],
+            "carton_oj_000006_2_gt.png": [
+                492,
+                3,
+                640,
+                244
+            ],
+            "carton_oj_000050_2_gt.png": [
+                354,
+                119,
+                493,
+                346
+            ],
+            "carton_oj_000049_1_gt.png": [
+                232,
+                109,
+                347,
+                283
+            ],
+            "carton_oj_000019_1_gt.png": [
+                337,
+                112,
+                448,
+                297
+            ],
+            "carton_oj_000025_1_gt.png": [
+                248,
+                73,
+                417,
+                367
+            ],
+            "carton_oj_000012_1_gt.png": [
+                133,
+                12,
+                251,
+                225
+            ],
+            "carton_oj_000031_1_gt.png": [
+                245,
+                144,
+                416,
+                395
+            ],
+            "carton_oj_000032_1_gt.png": [
+                235,
+                78,
+                401,
+                388
+            ],
+            "carton_oj_000011_1_gt.png": [
+                233,
+                267,
+                324,
+                435
+            ],
+            "carton_oj_000012_2_gt.png": [
+                251,
+                51,
+                351,
+                215
+            ],
+            "carton_oj_000006_1_gt.png": [
+                3,
+                240,
+                202,
+                415
+            ],
+            "carton_oj_000023_1_gt.png": [
+                236,
+                131,
+                339,
+                366
+            ],
+            "carton_oj_000005_1_gt.png": [
+                10,
+                121,
+                235,
+                308
+            ],
+            "carton_oj_000033_2_gt.png": [
+                303,
+                117,
+                435,
+                339
+            ],
+            "carton_oj_000015_2_gt.png": [
+                417,
+                77,
+                498,
+                278
+            ],
+            "carton_oj_000039_1_gt.png": [
+                233,
+                97,
+                323,
+                288
+            ],
+            "carton_oj_000010_2_gt.png": [
+                508,
+                105,
+                611,
+                291
+            ],
+            "carton_oj_000048_1_gt.png": [
+                93,
+                320,
+                208,
+                479
+            ],
+            "carton_oj_000008_2_gt.png": [
+                379,
+                65,
+                472,
+                243
+            ],
+            "carton_oj_000015_1_gt.png": [
+                291,
+                83,
+                416,
+                323
+            ],
+            "carton_oj_000030_1_gt.png": [
+                111,
+                103,
+                288,
+                399
+            ],
+            "carton_oj_000020_2_gt.png": [
+                393,
+                165,
+                480,
+                348
+            ],
+            "carton_oj_000047_2_gt.png": [
+                444,
+                107,
+                575,
+                289
+            ],
+            "carton_oj_000014_2_gt.png": [
+                379,
+                248,
+                485,
+                428
+            ],
+            "carton_oj_000035_1_gt.png": [
+                295,
+                31,
+                437,
+                306
+            ],
+            "carton_oj_000037_1_gt.png": [
+                223,
+                165,
+                348,
+                399
+            ],
+            "carton_oj_000033_1_gt.png": [
+                154,
+                169,
+                292,
+                403
+            ],
+            "carton_oj_000040_2_gt.png": [
+                383,
+                135,
+                491,
+                292
+            ],
+            "carton_oj_000016_1_gt.png": [
+                99,
+                183,
+                328,
+                317
+            ],
+            "carton_oj_000009_2_gt.png": [
+                461,
+                108,
+                561,
+                303
+            ],
+            "carton_oj_000017_2_gt.png": [
+                302,
+                174,
+                401,
+                367
+            ],
+            "carton_oj_000034_1_gt.png": [
+                181,
+                43,
+                335,
+                312
+            ],
+            "carton_oj_000010_1_gt.png": [
+                368,
+                113,
+                470,
+                315
+            ],
+            "carton_oj_000003_1_gt.png": [
+                323,
+                11,
+                446,
+                236
+            ],
+            "carton_oj_000018_1_gt.png": [
+                115,
+                83,
+                296,
+                180
+            ],
+            "carton_oj_000040_1_gt.png": [
+                298,
+                122,
+                398,
+                297
+            ],
+            "carton_oj_000017_1_gt.png": [
+                51,
+                175,
+                251,
+                267
+            ],
+            "carton_oj_000021_1_gt.png": [
+                173,
+                118,
+                355,
+                405
+            ],
+            "carton_oj_000038_1_gt.png": [
+                357,
+                68,
+                499,
+                272
+            ],
+            "carton_oj_000001_1_gt.png": [
+                118,
+                80,
+                226,
+                271
+            ],
+            "carton_oj_000008_1_gt.png": [
+                233,
+                259,
+                380,
+                376
+            ],
+            "carton_oj_000039_2_gt.png": [
+                338,
+                95,
+                458,
+                278
+            ],
+            "carton_oj_000041_2_gt.png": [
+                408,
+                84,
+                534,
+                319
+            ],
+            "carton_oj_000041_1_gt.png": [
+                299,
+                80,
+                414,
+                314
+            ],
+            "carton_oj_000019_2_gt.png": [
+                501,
+                119,
+                614,
+                317
+            ],
+            "carton_oj_000007_1_gt.png": [
+                189,
+                236,
+                366,
+                423
+            ],
+            "carton_oj_000011_2_gt.png": [
+                330,
+                227,
+                411,
+                378
+            ],
+            "carton_oj_000014_1_gt.png": [
+                347,
+                114,
+                516,
+                210
+            ],
+            "carton_oj_000027_1_gt.png": [
+                140,
+                66,
+                339,
+                442
+            ],
+            "carton_oj_000029_1_gt.png": [
+                447,
+                72,
+                601,
+                353
+            ],
+            "carton_oj_000002_1_gt.png": [
+                464,
+                97,
+                638,
+                316
+            ],
+            "carton_oj_000034_2_gt.png": [
+                304,
+                112,
+                495,
+                387
+            ],
+            "carton_oj_000022_1_gt.png": [
+                227,
+                199,
+                362,
+                398
+            ],
+            "carton_oj_000048_2_gt.png": [
+                430,
+                2,
+                535,
+                177
+            ],
+            "carton_oj_000045_1_gt.png": [
+                88,
+                129,
+                267,
+                431
+            ],
+            "carton_oj_000004_1_gt.png": [
+                486,
+                213,
+                585,
+                383
+            ],
+            "carton_oj_000044_1_gt.png": [
+                243,
+                84,
+                367,
+                300
+            ],
+            "carton_oj_000013_1_gt.png": [
+                335,
+                57,
+                526,
+                172
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "carton_oj_000047_1_gt.png": [],
+            "carton_oj_000045_2_gt.png": [],
+            "carton_oj_000046_1_gt.png": [
+                257,
+                123,
+                377,
+                386
+            ],
+            "carton_oj_000007_2_gt.png": [
+                373,
+                16,
+                498,
+                257
+            ],
+            "carton_oj_000050_1_gt.png": [],
+            "carton_oj_000018_2_gt.png": [],
+            "carton_oj_000020_1_gt.png": [],
+            "carton_oj_000009_1_gt.png": [],
+            "carton_oj_000026_1_gt.png": [
+                137,
+                72,
+                275,
+                333
+            ],
+            "carton_oj_000049_2_gt.png": [
+                246,
+                66,
+                453,
+                250
+            ],
+            "carton_oj_000016_2_gt.png": [],
+            "carton_oj_000043_1_gt.png": [
+                241,
+                100,
+                382,
+                332
+            ],
+            "carton_oj_000013_2_gt.png": [
+                364,
+                221,
+                480,
+                435
+            ],
+            "carton_oj_000042_1_gt.png": [
+                180,
+                61,
+                288,
+                262
+            ],
+            "carton_oj_000028_1_gt.png": [
+                260,
+                66,
+                386,
+                291
+            ],
+            "carton_oj_000036_1_gt.png": [
+                395,
+                81,
+                476,
+                265
+            ],
+            "carton_oj_000024_1_gt.png": [
+                201,
+                105,
+                368,
+                412
+            ],
+            "carton_oj_000006_2_gt.png": [
+                478,
+                0,
+                639,
+                240
+            ],
+            "carton_oj_000050_2_gt.png": [
+                358,
+                156,
+                448,
+                328
+            ],
+            "carton_oj_000049_1_gt.png": [],
+            "carton_oj_000019_1_gt.png": [],
+            "carton_oj_000025_1_gt.png": [
+                248,
+                78,
+                400,
+                361
+            ],
+            "carton_oj_000012_1_gt.png": [],
+            "carton_oj_000031_1_gt.png": [
+                188,
+                146,
+                418,
+                379
+            ],
+            "carton_oj_000032_1_gt.png": [
+                234,
+                79,
+                399,
+                320
+            ],
+            "carton_oj_000011_1_gt.png": [
+                228,
+                229,
+                325,
+                430
+            ],
+            "carton_oj_000012_2_gt.png": [
+                255,
+                52,
+                350,
+                218
+            ],
+            "carton_oj_000006_1_gt.png": [],
+            "carton_oj_000023_1_gt.png": [
+                234,
+                142,
+                339,
+                365
+            ],
+            "carton_oj_000005_1_gt.png": [],
+            "carton_oj_000033_2_gt.png": [],
+            "carton_oj_000015_2_gt.png": [],
+            "carton_oj_000039_1_gt.png": [],
+            "carton_oj_000010_2_gt.png": [],
+            "carton_oj_000048_1_gt.png": [],
+            "carton_oj_000008_2_gt.png": [
+                380,
+                65,
+                469,
+                241
+            ],
+            "carton_oj_000015_1_gt.png": [
+                248,
+                88,
+                412,
+                317
+            ],
+            "carton_oj_000030_1_gt.png": [
+                114,
+                104,
+                283,
+                395
+            ],
+            "carton_oj_000020_2_gt.png": [
+                393,
+                167,
+                478,
+                347
+            ],
+            "carton_oj_000047_2_gt.png": [
+                371,
+                107,
+                575,
+                307
+            ],
+            "carton_oj_000014_2_gt.png": [
+                389,
+                245,
+                486,
+                427
+            ],
+            "carton_oj_000035_1_gt.png": [
+                236,
+                31,
+                436,
+                303
+            ],
+            "carton_oj_000037_1_gt.png": [
+                224,
+                166,
+                347,
+                396
+            ],
+            "carton_oj_000033_1_gt.png": [
+                165,
+                142,
+                408,
+                356
+            ],
+            "carton_oj_000040_2_gt.png": [
+                306,
+                154,
+                503,
+                298
+            ],
+            "carton_oj_000016_1_gt.png": [],
+            "carton_oj_000009_2_gt.png": [
+                407,
+                111,
+                560,
+                301
+            ],
+            "carton_oj_000017_2_gt.png": [],
+            "carton_oj_000034_1_gt.png": [],
+            "carton_oj_000010_1_gt.png": [
+                371,
+                105,
+                609,
+                316
+            ],
+            "carton_oj_000003_1_gt.png": [
+                326,
+                13,
+                442,
+                235
+            ],
+            "carton_oj_000018_1_gt.png": [],
+            "carton_oj_000040_1_gt.png": [],
+            "carton_oj_000017_1_gt.png": [],
+            "carton_oj_000021_1_gt.png": [
+                171,
+                117,
+                355,
+                373
+            ],
+            "carton_oj_000038_1_gt.png": [],
+            "carton_oj_000001_1_gt.png": [],
+            "carton_oj_000008_1_gt.png": [],
+            "carton_oj_000039_2_gt.png": [
+                253,
+                113,
+                454,
+                285
+            ],
+            "carton_oj_000041_2_gt.png": [
+                305,
+                84,
+                534,
+                313
+            ],
+            "carton_oj_000041_1_gt.png": [],
+            "carton_oj_000019_2_gt.png": [
+                506,
+                121,
+                613,
+                314
+            ],
+            "carton_oj_000007_1_gt.png": [],
+            "carton_oj_000011_2_gt.png": [],
+            "carton_oj_000014_1_gt.png": [],
+            "carton_oj_000027_1_gt.png": [
+                141,
+                75,
+                338,
+                479
+            ],
+            "carton_oj_000029_1_gt.png": [],
+            "carton_oj_000002_1_gt.png": [
+                49,
+                134,
+                213,
+                327
+            ],
+            "carton_oj_000034_2_gt.png": [],
+            "carton_oj_000022_1_gt.png": [
+                71,
+                61,
+                408,
+                462
+            ],
+            "carton_oj_000048_2_gt.png": [
+                398,
+                0,
+                639,
+                171
+            ],
+            "carton_oj_000045_1_gt.png": [
+                110,
+                133,
+                261,
+                384
+            ],
+            "carton_oj_000004_1_gt.png": [],
+            "carton_oj_000044_1_gt.png": [
+                212,
+                62,
+                366,
+                297
+            ],
+            "carton_oj_000013_1_gt.png": []
+        },
+        "mask_images_count": 75
+    },
+    "carton_soymilk": {
+        "product_images_list": [
+            "carton_soymilk_000029.jpg",
+            "carton_soymilk_000017.jpg",
+            "carton_soymilk_000041.jpg",
+            "carton_soymilk_000047.jpg",
+            "carton_soymilk_000013.jpg",
+            "carton_soymilk_000030.jpg",
+            "carton_soymilk_000005.jpg",
+            "carton_soymilk_000049.jpg",
+            "carton_soymilk_000003.jpg",
+            "carton_soymilk_000034.jpg",
+            "carton_soymilk_000010.jpg",
+            "carton_soymilk_000020.jpg",
+            "carton_soymilk_000046.jpg",
+            "carton_soymilk_000037.jpg",
+            "carton_soymilk_000045.jpg",
+            "carton_soymilk_000050.jpg",
+            "carton_soymilk_000024.jpg",
+            "carton_soymilk_000008.jpg",
+            "carton_soymilk_000001.jpg",
+            "carton_soymilk_000012.jpg",
+            "carton_soymilk_000038.jpg",
+            "carton_soymilk_000009.jpg",
+            "carton_soymilk_000036.jpg",
+            "carton_soymilk_000048.jpg",
+            "carton_soymilk_000019.jpg",
+            "carton_soymilk_000033.jpg",
+            "carton_soymilk_000015.jpg",
+            "carton_soymilk_000014.jpg",
+            "carton_soymilk_000028.jpg",
+            "carton_soymilk_000011.jpg",
+            "carton_soymilk_000016.jpg",
+            "carton_soymilk_000004.jpg",
+            "carton_soymilk_000023.jpg",
+            "carton_soymilk_000042.jpg",
+            "carton_soymilk_000026.jpg",
+            "carton_soymilk_000006.jpg",
+            "carton_soymilk_000027.jpg",
+            "carton_soymilk_000021.jpg",
+            "carton_soymilk_000044.jpg",
+            "carton_soymilk_000035.jpg",
+            "carton_soymilk_000018.jpg",
+            "carton_soymilk_000032.jpg",
+            "carton_soymilk_000039.jpg",
+            "carton_soymilk_000043.jpg",
+            "carton_soymilk_000031.jpg",
+            "carton_soymilk_000007.jpg",
+            "carton_soymilk_000040.jpg",
+            "carton_soymilk_000025.jpg",
+            "carton_soymilk_000002.jpg",
+            "carton_soymilk_000022.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "carton_soymilk_000040_1_gt.png": [
+                210,
+                3,
+                353,
+                231
+            ],
+            "carton_soymilk_000019_1_gt.png": [
+                58,
+                9,
+                248,
+                113
+            ],
+            "carton_soymilk_000036_1_gt.png": [
+                432,
+                31,
+                604,
+                276
+            ],
+            "carton_soymilk_000032_1_gt.png": [
+                254,
+                104,
+                409,
+                344
+            ],
+            "carton_soymilk_000041_1_gt.png": [
+                323,
+                39,
+                455,
+                267
+            ],
+            "carton_soymilk_000038_2_gt.png": [
+                128,
+                325,
+                221,
+                476
+            ],
+            "carton_soymilk_000028_1_gt.png": [
+                222,
+                131,
+                369,
+                354
+            ],
+            "carton_soymilk_000049_1_gt.png": [
+                263,
+                2,
+                493,
+                273
+            ],
+            "carton_soymilk_000044_1_gt.png": [
+                208,
+                59,
+                368,
+                309
+            ],
+            "carton_soymilk_000022_1_gt.png": [
+                206,
+                31,
+                369,
+                322
+            ],
+            "carton_soymilk_000009_1_gt.png": [
+                371,
+                14,
+                466,
+                232
+            ],
+            "carton_soymilk_000003_1_gt.png": [
+                146,
+                133,
+                281,
+                358
+            ],
+            "carton_soymilk_000016_1_gt.png": [
+                101,
+                152,
+                268,
+                290
+            ],
+            "carton_soymilk_000019_2_gt.png": [
+                296,
+                28,
+                402,
+                200
+            ],
+            "carton_soymilk_000018_1_gt.png": [
+                11,
+                157,
+                281,
+                334
+            ],
+            "carton_soymilk_000005_1_gt.png": [
+                309,
+                8,
+                570,
+                197
+            ],
+            "carton_soymilk_000050_1_gt.png": [
+                203,
+                27,
+                315,
+                216
+            ],
+            "carton_soymilk_000009_2_gt.png": [
+                498,
+                28,
+                604,
+                214
+            ],
+            "carton_soymilk_000020_1_gt.png": [
+                180,
+                80,
+                238,
+                199
+            ],
+            "carton_soymilk_000016_2_gt.png": [
+                390,
+                145,
+                565,
+                262
+            ],
+            "carton_soymilk_000013_1_gt.png": [
+                337,
+                19,
+                553,
+                153
+            ],
+            "carton_soymilk_000006_1_gt.png": [
+                388,
+                73,
+                476,
+                224
+            ],
+            "carton_soymilk_000048_2_gt.png": [
+                169,
+                308,
+                252,
+                445
+            ],
+            "carton_soymilk_000013_2_gt.png": [
+                461,
+                143,
+                563,
+                284
+            ],
+            "carton_soymilk_000037_1_gt.png": [
+                144,
+                291,
+                235,
+                448
+            ],
+            "carton_soymilk_000023_1_gt.png": [
+                234,
+                124,
+                385,
+                398
+            ],
+            "carton_soymilk_000015_1_gt.png": [
+                374,
+                230,
+                554,
+                322
+            ],
+            "carton_soymilk_000017_1_gt.png": [
+                43,
+                192,
+                219,
+                284
+            ],
+            "carton_soymilk_000047_2_gt.png": [
+                337,
+                161,
+                464,
+                388
+            ],
+            "carton_soymilk_000042_1_gt.png": [
+                276,
+                2,
+                454,
+                313
+            ],
+            "carton_soymilk_000008_1_gt.png": [
+                375,
+                181,
+                507,
+                377
+            ],
+            "carton_soymilk_000030_1_gt.png": [
+                191,
+                60,
+                402,
+                380
+            ],
+            "carton_soymilk_000014_1_gt.png": [
+                464,
+                0,
+                618,
+                237
+            ],
+            "carton_soymilk_000018_2_gt.png": [
+                336,
+                166,
+                492,
+                398
+            ],
+            "carton_soymilk_000007_1_gt.png": [
+                390,
+                8,
+                524,
+                252
+            ],
+            "carton_soymilk_000010_1_gt.png": [
+                345,
+                167,
+                469,
+                398
+            ],
+            "carton_soymilk_000021_2_gt.png": [
+                472,
+                23,
+                583,
+                224
+            ],
+            "carton_soymilk_000037_2_gt.png": [
+                446,
+                1,
+                625,
+                235
+            ],
+            "carton_soymilk_000046_1_gt.png": [
+                247,
+                17,
+                365,
+                238
+            ],
+            "carton_soymilk_000010_2_gt.png": [
+                414,
+                144,
+                509,
+                319
+            ],
+            "carton_soymilk_000038_1_gt.png": [
+                441,
+                15,
+                543,
+                202
+            ],
+            "carton_soymilk_000017_2_gt.png": [
+                260,
+                194,
+                341,
+                350
+            ],
+            "carton_soymilk_000043_2_gt.png": [
+                252,
+                121,
+                402,
+                374
+            ],
+            "carton_soymilk_000002_1_gt.png": [
+                182,
+                164,
+                304,
+                365
+            ],
+            "carton_soymilk_000045_1_gt.png": [
+                190,
+                32,
+                301,
+                253
+            ],
+            "carton_soymilk_000031_1_gt.png": [
+                237,
+                85,
+                391,
+                363
+            ],
+            "carton_soymilk_000048_1_gt.png": [
+                127,
+                40,
+                255,
+                292
+            ],
+            "carton_soymilk_000033_1_gt.png": [
+                234,
+                125,
+                373,
+                380
+            ],
+            "carton_soymilk_000047_1_gt.png": [
+                206,
+                132,
+                316,
+                356
+            ],
+            "carton_soymilk_000004_1_gt.png": [
+                455,
+                245,
+                585,
+                462
+            ],
+            "carton_soymilk_000044_2_gt.png": [
+                354,
+                102,
+                520,
+                329
+            ],
+            "carton_soymilk_000049_2_gt.png": [
+                181,
+                260,
+                310,
+                452
+            ],
+            "carton_soymilk_000001_1_gt.png": [
+                355,
+                141,
+                440,
+                305
+            ],
+            "carton_soymilk_000024_1_gt.png": [
+                270,
+                93,
+                424,
+                360
+            ],
+            "carton_soymilk_000039_1_gt.png": [
+                124,
+                338,
+                240,
+                476
+            ],
+            "carton_soymilk_000012_1_gt.png": [
+                339,
+                69,
+                519,
+                164
+            ],
+            "carton_soymilk_000034_1_gt.png": [
+                268,
+                27,
+                395,
+                235
+            ],
+            "carton_soymilk_000029_1_gt.png": [
+                161,
+                112,
+                284,
+                312
+            ],
+            "carton_soymilk_000039_2_gt.png": [
+                495,
+                0,
+                633,
+                205
+            ],
+            "carton_soymilk_000035_1_gt.png": [
+                369,
+                22,
+                544,
+                302
+            ],
+            "carton_soymilk_000011_1_gt.png": [
+                277,
+                97,
+                348,
+                251
+            ],
+            "carton_soymilk_000008_2_gt.png": [
+                466,
+                170,
+                564,
+                340
+            ],
+            "carton_soymilk_000043_1_gt.png": [
+                85,
+                144,
+                260,
+                426
+            ],
+            "carton_soymilk_000021_1_gt.png": [
+                299,
+                49,
+                398,
+                218
+            ],
+            "carton_soymilk_000046_2_gt.png": [
+                347,
+                42,
+                469,
+                293
+            ],
+            "carton_soymilk_000027_1_gt.png": [
+                197,
+                72,
+                361,
+                301
+            ],
+            "carton_soymilk_000025_1_gt.png": [
+                208,
+                69,
+                354,
+                308
+            ],
+            "carton_soymilk_000011_2_gt.png": [
+                368,
+                98,
+                434,
+                229
+            ],
+            "carton_soymilk_000015_2_gt.png": [
+                507,
+                16,
+                621,
+                206
+            ],
+            "carton_soymilk_000012_2_gt.png": [
+                495,
+                206,
+                590,
+                369
+            ],
+            "carton_soymilk_000014_2_gt.png": [
+                288,
+                228,
+                510,
+                372
+            ],
+            "carton_soymilk_000050_2_gt.png": [
+                388,
+                87,
+                550,
+                326
+            ],
+            "carton_soymilk_000026_1_gt.png": [
+                189,
+                101,
+                311,
+                308
+            ],
+            "carton_soymilk_000007_2_gt.png": [
+                491,
+                18,
+                579,
+                221
+            ],
+            "carton_soymilk_000020_2_gt.png": [
+                291,
+                91,
+                357,
+                216
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "carton_soymilk_000040_1_gt.png": [
+                217,
+                6,
+                351,
+                231
+            ],
+            "carton_soymilk_000019_1_gt.png": [],
+            "carton_soymilk_000036_1_gt.png": [],
+            "carton_soymilk_000032_1_gt.png": [],
+            "carton_soymilk_000041_1_gt.png": [],
+            "carton_soymilk_000038_2_gt.png": [],
+            "carton_soymilk_000028_1_gt.png": [
+                232,
+                135,
+                370,
+                353
+            ],
+            "carton_soymilk_000049_1_gt.png": [],
+            "carton_soymilk_000044_1_gt.png": [],
+            "carton_soymilk_000022_1_gt.png": [
+                210,
+                46,
+                404,
+                319
+            ],
+            "carton_soymilk_000009_1_gt.png": [],
+            "carton_soymilk_000003_1_gt.png": [],
+            "carton_soymilk_000016_1_gt.png": [],
+            "carton_soymilk_000019_2_gt.png": [
+                81,
+                40,
+                399,
+                177
+            ],
+            "carton_soymilk_000018_1_gt.png": [],
+            "carton_soymilk_000005_1_gt.png": [
+                331,
+                13,
+                619,
+                154
+            ],
+            "carton_soymilk_000050_1_gt.png": [],
+            "carton_soymilk_000009_2_gt.png": [
+                507,
+                28,
+                601,
+                210
+            ],
+            "carton_soymilk_000020_1_gt.png": [],
+            "carton_soymilk_000016_2_gt.png": [
+                392,
+                163,
+                571,
+                265
+            ],
+            "carton_soymilk_000013_1_gt.png": [],
+            "carton_soymilk_000006_1_gt.png": [
+                392,
+                71,
+                475,
+                223
+            ],
+            "carton_soymilk_000048_2_gt.png": [],
+            "carton_soymilk_000013_2_gt.png": [
+                467,
+                161,
+                562,
+                281
+            ],
+            "carton_soymilk_000037_1_gt.png": [],
+            "carton_soymilk_000023_1_gt.png": [],
+            "carton_soymilk_000015_1_gt.png": [],
+            "carton_soymilk_000017_1_gt.png": [
+                41,
+                188,
+                338,
+                342
+            ],
+            "carton_soymilk_000047_2_gt.png": [],
+            "carton_soymilk_000042_1_gt.png": [],
+            "carton_soymilk_000008_1_gt.png": [
+                378,
+                168,
+                562,
+                379
+            ],
+            "carton_soymilk_000030_1_gt.png": [
+                195,
+                51,
+                448,
+                378
+            ],
+            "carton_soymilk_000014_1_gt.png": [
+                469,
+                0,
+                616,
+                239
+            ],
+            "carton_soymilk_000018_2_gt.png": [],
+            "carton_soymilk_000007_1_gt.png": [
+                397,
+                11,
+                577,
+                250
+            ],
+            "carton_soymilk_000010_1_gt.png": [],
+            "carton_soymilk_000021_2_gt.png": [
+                468,
+                26,
+                584,
+                216
+            ],
+            "carton_soymilk_000037_2_gt.png": [
+                455,
+                0,
+                622,
+                231
+            ],
+            "carton_soymilk_000046_1_gt.png": [
+                251,
+                46,
+                443,
+                239
+            ],
+            "carton_soymilk_000010_2_gt.png": [
+                419,
+                144,
+                510,
+                317
+            ],
+            "carton_soymilk_000038_1_gt.png": [],
+            "carton_soymilk_000017_2_gt.png": [],
+            "carton_soymilk_000043_2_gt.png": [],
+            "carton_soymilk_000002_1_gt.png": [
+                186,
+                169,
+                296,
+                337
+            ],
+            "carton_soymilk_000045_1_gt.png": [
+                126,
+                51,
+                393,
+                252
+            ],
+            "carton_soymilk_000031_1_gt.png": [
+                235,
+                90,
+                411,
+                338
+            ],
+            "carton_soymilk_000048_1_gt.png": [
+                127,
+                36,
+                353,
+                250
+            ],
+            "carton_soymilk_000033_1_gt.png": [
+                208,
+                134,
+                441,
+                376
+            ],
+            "carton_soymilk_000047_1_gt.png": [
+                150,
+                141,
+                361,
+                358
+            ],
+            "carton_soymilk_000004_1_gt.png": [
+                465,
+                250,
+                586,
+                424
+            ],
+            "carton_soymilk_000044_2_gt.png": [],
+            "carton_soymilk_000049_2_gt.png": [
+                183,
+                277,
+                306,
+                411
+            ],
+            "carton_soymilk_000001_1_gt.png": [],
+            "carton_soymilk_000024_1_gt.png": [],
+            "carton_soymilk_000039_1_gt.png": [],
+            "carton_soymilk_000012_1_gt.png": [],
+            "carton_soymilk_000034_1_gt.png": [],
+            "carton_soymilk_000029_1_gt.png": [
+                156,
+                91,
+                433,
+                276
+            ],
+            "carton_soymilk_000039_2_gt.png": [
+                498,
+                0,
+                639,
+                203
+            ],
+            "carton_soymilk_000035_1_gt.png": [
+                376,
+                23,
+                571,
+                302
+            ],
+            "carton_soymilk_000011_1_gt.png": [],
+            "carton_soymilk_000008_2_gt.png": [],
+            "carton_soymilk_000043_1_gt.png": [
+                6,
+                139,
+                400,
+                413
+            ],
+            "carton_soymilk_000021_1_gt.png": [],
+            "carton_soymilk_000046_2_gt.png": [],
+            "carton_soymilk_000027_1_gt.png": [
+                206,
+                90,
+                358,
+                300
+            ],
+            "carton_soymilk_000025_1_gt.png": [],
+            "carton_soymilk_000011_2_gt.png": [
+                371,
+                96,
+                433,
+                228
+            ],
+            "carton_soymilk_000015_2_gt.png": [
+                511,
+                15,
+                615,
+                203
+            ],
+            "carton_soymilk_000012_2_gt.png": [
+                502,
+                204,
+                587,
+                367
+            ],
+            "carton_soymilk_000014_2_gt.png": [],
+            "carton_soymilk_000050_2_gt.png": [],
+            "carton_soymilk_000026_1_gt.png": [
+                178,
+                110,
+                336,
+                354
+            ],
+            "carton_soymilk_000007_2_gt.png": [],
+            "carton_soymilk_000020_2_gt.png": [
+                296,
+                94,
+                356,
+                211
+            ]
+        },
+        "mask_images_count": 75
+    },
+    "juicebox": {
+        "product_images_list": [
+            "juicebox_000038.jpg",
+            "juicebox_000041.jpg",
+            "juicebox_000047.jpg",
+            "juicebox_000003.jpg",
+            "juicebox_000014.jpg",
+            "juicebox_000042.jpg",
+            "juicebox_000021.jpg",
+            "juicebox_000034.jpg",
+            "juicebox_000011.jpg",
+            "juicebox_000005.jpg",
+            "juicebox_000002.jpg",
+            "juicebox_000015.jpg",
+            "juicebox_000022.jpg",
+            "juicebox_000020.jpg",
+            "juicebox_000028.jpg",
+            "juicebox_000037.jpg",
+            "juicebox_000008.jpg",
+            "juicebox_000045.jpg",
+            "juicebox_000035.jpg",
+            "juicebox_000001.jpg",
+            "juicebox_000048.jpg",
+            "juicebox_000023.jpg",
+            "juicebox_000043.jpg",
+            "juicebox_000013.jpg",
+            "juicebox_000004.jpg",
+            "juicebox_000025.jpg",
+            "juicebox_000012.jpg",
+            "juicebox_000036.jpg",
+            "juicebox_000032.jpg",
+            "juicebox_000019.jpg",
+            "juicebox_000040.jpg",
+            "juicebox_000027.jpg",
+            "juicebox_000017.jpg",
+            "juicebox_000049.jpg",
+            "juicebox_000009.jpg",
+            "juicebox_000016.jpg",
+            "juicebox_000039.jpg",
+            "juicebox_000018.jpg",
+            "juicebox_000006.jpg",
+            "juicebox_000046.jpg",
+            "juicebox_000007.jpg",
+            "juicebox_000024.jpg",
+            "juicebox_000029.jpg",
+            "juicebox_000010.jpg",
+            "juicebox_000050.jpg",
+            "juicebox_000030.jpg",
+            "juicebox_000026.jpg",
+            "juicebox_000031.jpg",
+            "juicebox_000044.jpg",
+            "juicebox_000033.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "juicebox_000034_2_gt.png": [
+                310,
+                269,
+                372,
+                391
+            ],
+            "juicebox_000002_1_gt.png": [
+                317,
+                225,
+                379,
+                326
+            ],
+            "juicebox_000032_1_gt.png": [
+                304,
+                151,
+                368,
+                304
+            ],
+            "juicebox_000015_1_gt.png": [
+                250,
+                109,
+                317,
+                222
+            ],
+            "juicebox_000048_2_gt.png": [
+                344,
+                258,
+                475,
+                368
+            ],
+            "juicebox_000030_2_gt.png": [
+                337,
+                176,
+                398,
+                326
+            ],
+            "juicebox_000048_1_gt.png": [
+                264,
+                247,
+                372,
+                363
+            ],
+            "juicebox_000046_1_gt.png": [
+                53,
+                256,
+                145,
+                422
+            ],
+            "juicebox_000037_1_gt.png": [
+                157,
+                116,
+                236,
+                268
+            ],
+            "juicebox_000014_2_gt.png": [
+                230,
+                137,
+                302,
+                260
+            ],
+            "juicebox_000030_1_gt.png": [
+                241,
+                151,
+                320,
+                301
+            ],
+            "juicebox_000006_1_gt.png": [
+                243,
+                186,
+                311,
+                305
+            ],
+            "juicebox_000031_1_gt.png": [
+                356,
+                198,
+                439,
+                354
+            ],
+            "juicebox_000014_1_gt.png": [
+                196,
+                228,
+                326,
+                316
+            ],
+            "juicebox_000007_1_gt.png": [
+                190,
+                227,
+                265,
+                344
+            ],
+            "juicebox_000003_2_gt.png": [
+                302,
+                343,
+                366,
+                438
+            ],
+            "juicebox_000028_2_gt.png": [
+                319,
+                76,
+                395,
+                209
+            ],
+            "juicebox_000028_1_gt.png": [
+                165,
+                187,
+                262,
+                358
+            ],
+            "juicebox_000045_1_gt.png": [
+                102,
+                172,
+                201,
+                333
+            ],
+            "juicebox_000029_1_gt.png": [
+                168,
+                213,
+                264,
+                382
+            ],
+            "juicebox_000021_1_gt.png": [
+                227,
+                151,
+                352,
+                226
+            ],
+            "juicebox_000043_1_gt.png": [
+                212,
+                181,
+                283,
+                319
+            ],
+            "juicebox_000033_2_gt.png": [
+                219,
+                197,
+                285,
+                316
+            ],
+            "juicebox_000016_1_gt.png": [
+                283,
+                140,
+                362,
+                274
+            ],
+            "juicebox_000012_1_gt.png": [
+                125,
+                186,
+                237,
+                274
+            ],
+            "juicebox_000027_1_gt.png": [
+                277,
+                132,
+                375,
+                297
+            ],
+            "juicebox_000022_1_gt.png": [
+                227,
+                221,
+                375,
+                341
+            ],
+            "juicebox_000037_2_gt.png": [
+                151,
+                273,
+                339,
+                412
+            ],
+            "juicebox_000005_2_gt.png": [
+                341,
+                343,
+                400,
+                446
+            ],
+            "juicebox_000038_2_gt.png": [
+                287,
+                79,
+                372,
+                238
+            ],
+            "juicebox_000042_1_gt.png": [
+                232,
+                159,
+                339,
+                252
+            ],
+            "juicebox_000026_1_gt.png": [
+                264,
+                138,
+                361,
+                303
+            ],
+            "juicebox_000036_1_gt.png": [
+                90,
+                296,
+                227,
+                378
+            ],
+            "juicebox_000011_1_gt.png": [
+                482,
+                7,
+                563,
+                136
+            ],
+            "juicebox_000050_1_gt.png": [
+                376,
+                247,
+                449,
+                378
+            ],
+            "juicebox_000040_2_gt.png": [
+                282,
+                79,
+                344,
+                227
+            ],
+            "juicebox_000032_2_gt.png": [
+                374,
+                160,
+                439,
+                310
+            ],
+            "juicebox_000034_1_gt.png": [
+                228,
+                66,
+                373,
+                153
+            ],
+            "juicebox_000024_1_gt.png": [
+                238,
+                117,
+                306,
+                235
+            ],
+            "juicebox_000039_1_gt.png": [
+                199,
+                94,
+                276,
+                244
+            ],
+            "juicebox_000006_2_gt.png": [
+                356,
+                238,
+                505,
+                361
+            ],
+            "juicebox_000017_2_gt.png": [
+                393,
+                212,
+                491,
+                315
+            ],
+            "juicebox_000001_1_gt.png": [
+                267,
+                224,
+                334,
+                333
+            ],
+            "juicebox_000049_1_gt.png": [
+                179,
+                148,
+                264,
+                298
+            ],
+            "juicebox_000010_1_gt.png": [
+                440,
+                268,
+                506,
+                385
+            ],
+            "juicebox_000015_2_gt.png": [
+                331,
+                111,
+                388,
+                216
+            ],
+            "juicebox_000039_2_gt.png": [
+                191,
+                223,
+                347,
+                307
+            ],
+            "juicebox_000016_2_gt.png": [
+                451,
+                158,
+                549,
+                308
+            ],
+            "juicebox_000002_2_gt.png": [
+                372,
+                255,
+                418,
+                342
+            ],
+            "juicebox_000008_1_gt.png": [
+                199,
+                149,
+                335,
+                236
+            ],
+            "juicebox_000023_1_gt.png": [
+                228,
+                192,
+                312,
+                358
+            ],
+            "juicebox_000044_1_gt.png": [
+                140,
+                183,
+                201,
+                310
+            ],
+            "juicebox_000035_2_gt.png": [
+                95,
+                261,
+                246,
+                367
+            ],
+            "juicebox_000001_2_gt.png": [
+                328,
+                208,
+                394,
+                326
+            ],
+            "juicebox_000041_1_gt.png": [
+                287,
+                120,
+                381,
+                287
+            ],
+            "juicebox_000047_1_gt.png": [
+                70,
+                212,
+                152,
+                380
+            ],
+            "juicebox_000027_2_gt.png": [
+                106,
+                154,
+                265,
+                297
+            ],
+            "juicebox_000005_1_gt.png": [
+                199,
+                110,
+                326,
+                182
+            ],
+            "juicebox_000003_1_gt.png": [
+                282,
+                161,
+                416,
+                247
+            ],
+            "juicebox_000004_2_gt.png": [
+                375,
+                260,
+                438,
+                387
+            ],
+            "juicebox_000009_1_gt.png": [
+                177,
+                99,
+                243,
+                216
+            ],
+            "juicebox_000040_1_gt.png": [
+                167,
+                169,
+                288,
+                326
+            ],
+            "juicebox_000025_1_gt.png": [
+                147,
+                167,
+                263,
+                265
+            ],
+            "juicebox_000029_2_gt.png": [
+                304,
+                136,
+                394,
+                281
+            ],
+            "juicebox_000018_1_gt.png": [
+                355,
+                169,
+                428,
+                311
+            ],
+            "juicebox_000038_1_gt.png": [
+                132,
+                202,
+                303,
+                359
+            ],
+            "juicebox_000031_2_gt.png": [
+                450,
+                195,
+                548,
+                357
+            ],
+            "juicebox_000036_2_gt.png": [
+                403,
+                117,
+                475,
+                242
+            ],
+            "juicebox_000033_1_gt.png": [
+                149,
+                205,
+                227,
+                354
+            ],
+            "juicebox_000013_1_gt.png": [
+                342,
+                214,
+                419,
+                345
+            ],
+            "juicebox_000020_1_gt.png": [
+                161,
+                263,
+                237,
+                390
+            ],
+            "juicebox_000035_1_gt.png": [
+                120,
+                113,
+                264,
+                196
+            ],
+            "juicebox_000017_1_gt.png": [
+                400,
+                136,
+                454,
+                259
+            ],
+            "juicebox_000004_1_gt.png": [
+                215,
+                103,
+                280,
+                222
+            ],
+            "juicebox_000019_1_gt.png": [
+                205,
+                153,
+                292,
+                310
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "juicebox_000034_2_gt.png": [],
+            "juicebox_000002_1_gt.png": [
+                322,
+                231,
+                373,
+                317
+            ],
+            "juicebox_000032_1_gt.png": [],
+            "juicebox_000015_1_gt.png": [],
+            "juicebox_000048_2_gt.png": [],
+            "juicebox_000030_2_gt.png": [],
+            "juicebox_000048_1_gt.png": [],
+            "juicebox_000046_1_gt.png": [
+                51,
+                263,
+                142,
+                401
+            ],
+            "juicebox_000037_1_gt.png": [],
+            "juicebox_000014_2_gt.png": [],
+            "juicebox_000030_1_gt.png": [],
+            "juicebox_000006_1_gt.png": [],
+            "juicebox_000031_1_gt.png": [],
+            "juicebox_000014_1_gt.png": [],
+            "juicebox_000007_1_gt.png": [],
+            "juicebox_000003_2_gt.png": [
+                306,
+                344,
+                362,
+                422
+            ],
+            "juicebox_000028_2_gt.png": [],
+            "juicebox_000028_1_gt.png": [
+                166,
+                193,
+                260,
+                359
+            ],
+            "juicebox_000045_1_gt.png": [],
+            "juicebox_000029_1_gt.png": [],
+            "juicebox_000021_1_gt.png": [],
+            "juicebox_000043_1_gt.png": [],
+            "juicebox_000033_2_gt.png": [],
+            "juicebox_000016_1_gt.png": [],
+            "juicebox_000012_1_gt.png": [],
+            "juicebox_000027_1_gt.png": [
+                280,
+                132,
+                379,
+                296
+            ],
+            "juicebox_000022_1_gt.png": [],
+            "juicebox_000037_2_gt.png": [],
+            "juicebox_000005_2_gt.png": [],
+            "juicebox_000038_2_gt.png": [],
+            "juicebox_000042_1_gt.png": [],
+            "juicebox_000026_1_gt.png": [],
+            "juicebox_000036_1_gt.png": [],
+            "juicebox_000011_1_gt.png": [],
+            "juicebox_000050_1_gt.png": [],
+            "juicebox_000040_2_gt.png": [],
+            "juicebox_000032_2_gt.png": [],
+            "juicebox_000034_1_gt.png": [],
+            "juicebox_000024_1_gt.png": [],
+            "juicebox_000039_1_gt.png": [],
+            "juicebox_000006_2_gt.png": [],
+            "juicebox_000017_2_gt.png": [],
+            "juicebox_000001_1_gt.png": [],
+            "juicebox_000049_1_gt.png": [],
+            "juicebox_000010_1_gt.png": [],
+            "juicebox_000015_2_gt.png": [],
+            "juicebox_000039_2_gt.png": [],
+            "juicebox_000016_2_gt.png": [],
+            "juicebox_000002_2_gt.png": [],
+            "juicebox_000008_1_gt.png": [],
+            "juicebox_000023_1_gt.png": [
+                234,
+                197,
+                299,
+                358
+            ],
+            "juicebox_000044_1_gt.png": [
+                141,
+                187,
+                221,
+                288
+            ],
+            "juicebox_000035_2_gt.png": [],
+            "juicebox_000001_2_gt.png": [],
+            "juicebox_000041_1_gt.png": [
+                334,
+                0,
+                486,
+                333
+            ],
+            "juicebox_000047_1_gt.png": [],
+            "juicebox_000027_2_gt.png": [],
+            "juicebox_000005_1_gt.png": [],
+            "juicebox_000003_1_gt.png": [],
+            "juicebox_000004_2_gt.png": [],
+            "juicebox_000009_1_gt.png": [],
+            "juicebox_000040_1_gt.png": [],
+            "juicebox_000025_1_gt.png": [],
+            "juicebox_000029_2_gt.png": [],
+            "juicebox_000018_1_gt.png": [],
+            "juicebox_000038_1_gt.png": [],
+            "juicebox_000031_2_gt.png": [],
+            "juicebox_000036_2_gt.png": [],
+            "juicebox_000033_1_gt.png": [],
+            "juicebox_000013_1_gt.png": [],
+            "juicebox_000020_1_gt.png": [],
+            "juicebox_000035_1_gt.png": [],
+            "juicebox_000017_1_gt.png": [
+                407,
+                144,
+                457,
+                242
+            ],
+            "juicebox_000004_1_gt.png": [],
+            "juicebox_000019_1_gt.png": []
+        },
+        "mask_images_count": 75
+    },
+    "can_tomatosoup": {
+        "product_images_list": [
+            "can_tomatosoup_000034.jpg",
+            "can_tomatosoup_000032.jpg",
+            "can_tomatosoup_000017.jpg",
+            "can_tomatosoup_000021.jpg",
+            "can_tomatosoup_000036.jpg",
+            "can_tomatosoup_000002.jpg",
+            "can_tomatosoup_000029.jpg",
+            "can_tomatosoup_000013.jpg",
+            "can_tomatosoup_000027.jpg",
+            "can_tomatosoup_000038.jpg",
+            "can_tomatosoup_000001.jpg",
+            "can_tomatosoup_000030.jpg",
+            "can_tomatosoup_000045.jpg",
+            "can_tomatosoup_000016.jpg",
+            "can_tomatosoup_000047.jpg",
+            "can_tomatosoup_000007.jpg",
+            "can_tomatosoup_000033.jpg",
+            "can_tomatosoup_000009.jpg",
+            "can_tomatosoup_000008.jpg",
+            "can_tomatosoup_000044.jpg",
+            "can_tomatosoup_000011.jpg",
+            "can_tomatosoup_000014.jpg",
+            "can_tomatosoup_000006.jpg",
+            "can_tomatosoup_000015.jpg",
+            "can_tomatosoup_000028.jpg",
+            "can_tomatosoup_000005.jpg",
+            "can_tomatosoup_000019.jpg",
+            "can_tomatosoup_000022.jpg",
+            "can_tomatosoup_000023.jpg",
+            "can_tomatosoup_000031.jpg",
+            "can_tomatosoup_000039.jpg",
+            "can_tomatosoup_000050.jpg",
+            "can_tomatosoup_000004.jpg",
+            "can_tomatosoup_000035.jpg",
+            "can_tomatosoup_000025.jpg",
+            "can_tomatosoup_000010.jpg",
+            "can_tomatosoup_000003.jpg",
+            "can_tomatosoup_000048.jpg",
+            "can_tomatosoup_000020.jpg",
+            "can_tomatosoup_000040.jpg",
+            "can_tomatosoup_000043.jpg",
+            "can_tomatosoup_000037.jpg",
+            "can_tomatosoup_000018.jpg",
+            "can_tomatosoup_000041.jpg",
+            "can_tomatosoup_000012.jpg",
+            "can_tomatosoup_000046.jpg",
+            "can_tomatosoup_000042.jpg",
+            "can_tomatosoup_000026.jpg",
+            "can_tomatosoup_000024.jpg",
+            "can_tomatosoup_000049.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "can_tomatosoup_000045_1_gt.png": [
+                265,
+                159,
+                341,
+                287
+            ],
+            "can_tomatosoup_000022_1_gt.png": [
+                251,
+                127,
+                338,
+                281
+            ],
+            "can_tomatosoup_000015_1_gt.png": [
+                227,
+                142,
+                307,
+                251
+            ],
+            "can_tomatosoup_000027_1_gt.png": [
+                324,
+                152,
+                405,
+                286
+            ],
+            "can_tomatosoup_000009_1_gt.png": [
+                340,
+                145,
+                408,
+                266
+            ],
+            "can_tomatosoup_000044_1_gt.png": [
+                111,
+                116,
+                204,
+                244
+            ],
+            "can_tomatosoup_000024_1_gt.png": [
+                237,
+                81,
+                313,
+                208
+            ],
+            "can_tomatosoup_000046_1_gt.png": [
+                287,
+                169,
+                354,
+                296
+            ],
+            "can_tomatosoup_000011_2_gt.png": [
+                473,
+                222,
+                564,
+                352
+            ],
+            "can_tomatosoup_000021_2_gt.png": [
+                291,
+                138,
+                360,
+                232
+            ],
+            "can_tomatosoup_000011_1_gt.png": [
+                49,
+                14,
+                170,
+                170
+            ],
+            "can_tomatosoup_000006_1_gt.png": [
+                438,
+                22,
+                512,
+                137
+            ],
+            "can_tomatosoup_000042_2_gt.png": [
+                311,
+                146,
+                425,
+                333
+            ],
+            "can_tomatosoup_000046_2_gt.png": [
+                332,
+                246,
+                422,
+                398
+            ],
+            "can_tomatosoup_000007_1_gt.png": [
+                369,
+                7,
+                442,
+                122
+            ],
+            "can_tomatosoup_000033_1_gt.png": [
+                427,
+                156,
+                544,
+                312
+            ],
+            "can_tomatosoup_000008_1_gt.png": [
+                398,
+                61,
+                459,
+                152
+            ],
+            "can_tomatosoup_000005_1_gt.png": [
+                374,
+                62,
+                461,
+                203
+            ],
+            "can_tomatosoup_000041_2_gt.png": [
+                381,
+                102,
+                502,
+                282
+            ],
+            "can_tomatosoup_000048_2_gt.png": [
+                430,
+                220,
+                525,
+                352
+            ],
+            "can_tomatosoup_000019_1_gt.png": [
+                279,
+                255,
+                355,
+                388
+            ],
+            "can_tomatosoup_000023_1_gt.png": [
+                407,
+                99,
+                500,
+                261
+            ],
+            "can_tomatosoup_000026_1_gt.png": [
+                277,
+                137,
+                349,
+                258
+            ],
+            "can_tomatosoup_000050_1_gt.png": [
+                139,
+                222,
+                238,
+                377
+            ],
+            "can_tomatosoup_000018_2_gt.png": [
+                298,
+                149,
+                391,
+                296
+            ],
+            "can_tomatosoup_000009_2_gt.png": [
+                402,
+                139,
+                466,
+                252
+            ],
+            "can_tomatosoup_000030_1_gt.png": [
+                314,
+                265,
+                404,
+                392
+            ],
+            "can_tomatosoup_000029_1_gt.png": [
+                438,
+                180,
+                506,
+                276
+            ],
+            "can_tomatosoup_000019_2_gt.png": [
+                383,
+                248,
+                455,
+                376
+            ],
+            "can_tomatosoup_000035_1_gt.png": [
+                232,
+                168,
+                326,
+                317
+            ],
+            "can_tomatosoup_000043_1_gt.png": [
+                97,
+                144,
+                217,
+                305
+            ],
+            "can_tomatosoup_000010_2_gt.png": [
+                464,
+                98,
+                551,
+                241
+            ],
+            "can_tomatosoup_000040_1_gt.png": [
+                179,
+                112,
+                277,
+                272
+            ],
+            "can_tomatosoup_000037_2_gt.png": [
+                371,
+                102,
+                438,
+                197
+            ],
+            "can_tomatosoup_000050_2_gt.png": [
+                362,
+                234,
+                477,
+                383
+            ],
+            "can_tomatosoup_000038_1_gt.png": [
+                221,
+                177,
+                293,
+                298
+            ],
+            "can_tomatosoup_000013_1_gt.png": [
+                327,
+                90,
+                405,
+                216
+            ],
+            "can_tomatosoup_000020_2_gt.png": [
+                462,
+                219,
+                534,
+                331
+            ],
+            "can_tomatosoup_000049_2_gt.png": [
+                274,
+                130,
+                372,
+                284
+            ],
+            "can_tomatosoup_000018_1_gt.png": [
+                193,
+                167,
+                282,
+                312
+            ],
+            "can_tomatosoup_000044_2_gt.png": [
+                335,
+                238,
+                454,
+                413
+            ],
+            "can_tomatosoup_000037_1_gt.png": [
+                166,
+                53,
+                248,
+                176
+            ],
+            "can_tomatosoup_000043_2_gt.png": [
+                276,
+                58,
+                360,
+                186
+            ],
+            "can_tomatosoup_000001_1_gt.png": [
+                127,
+                135,
+                203,
+                240
+            ],
+            "can_tomatosoup_000024_2_gt.png": [
+                347,
+                219,
+                468,
+                385
+            ],
+            "can_tomatosoup_000021_1_gt.png": [
+                198,
+                112,
+                280,
+                229
+            ],
+            "can_tomatosoup_000039_2_gt.png": [
+                232,
+                300,
+                306,
+                415
+            ],
+            "can_tomatosoup_000014_2_gt.png": [
+                342,
+                76,
+                419,
+                205
+            ],
+            "can_tomatosoup_000016_1_gt.png": [
+                283,
+                188,
+                363,
+                317
+            ],
+            "can_tomatosoup_000047_2_gt.png": [
+                419,
+                144,
+                497,
+                262
+            ],
+            "can_tomatosoup_000039_1_gt.png": [
+                174,
+                91,
+                251,
+                205
+            ],
+            "can_tomatosoup_000028_1_gt.png": [
+                289,
+                237,
+                360,
+                359
+            ],
+            "can_tomatosoup_000038_2_gt.png": [
+                286,
+                148,
+                353,
+                255
+            ],
+            "can_tomatosoup_000048_1_gt.png": [
+                327,
+                231,
+                421,
+                382
+            ],
+            "can_tomatosoup_000047_1_gt.png": [
+                207,
+                125,
+                275,
+                235
+            ],
+            "can_tomatosoup_000010_1_gt.png": [
+                371,
+                99,
+                462,
+                242
+            ],
+            "can_tomatosoup_000012_1_gt.png": [
+                109,
+                43,
+                190,
+                154
+            ],
+            "can_tomatosoup_000049_1_gt.png": [
+                113,
+                190,
+                239,
+                381
+            ],
+            "can_tomatosoup_000002_1_gt.png": [
+                171,
+                133,
+                233,
+                222
+            ],
+            "can_tomatosoup_000020_1_gt.png": [
+                394,
+                209,
+                446,
+                300
+            ],
+            "can_tomatosoup_000032_1_gt.png": [
+                254,
+                169,
+                363,
+                340
+            ],
+            "can_tomatosoup_000034_1_gt.png": [
+                199,
+                161,
+                299,
+                326
+            ],
+            "can_tomatosoup_000014_1_gt.png": [
+                260,
+                81,
+                340,
+                208
+            ],
+            "can_tomatosoup_000025_1_gt.png": [
+                236,
+                219,
+                315,
+                346
+            ],
+            "can_tomatosoup_000036_1_gt.png": [
+                234,
+                87,
+                338,
+                253
+            ],
+            "can_tomatosoup_000041_1_gt.png": [
+                135,
+                98,
+                262,
+                254
+            ],
+            "can_tomatosoup_000004_1_gt.png": [
+                385,
+                106,
+                450,
+                212
+            ],
+            "can_tomatosoup_000003_1_gt.png": [
+                400,
+                168,
+                461,
+                268
+            ],
+            "can_tomatosoup_000013_2_gt.png": [
+                403,
+                78,
+                483,
+                204
+            ],
+            "can_tomatosoup_000042_1_gt.png": [
+                94,
+                123,
+                206,
+                300
+            ],
+            "can_tomatosoup_000045_2_gt.png": [
+                334,
+                112,
+                392,
+                231
+            ],
+            "can_tomatosoup_000012_2_gt.png": [
+                438,
+                218,
+                506,
+                320
+            ],
+            "can_tomatosoup_000017_1_gt.png": [
+                238,
+                53,
+                329,
+                184
+            ],
+            "can_tomatosoup_000036_2_gt.png": [
+                346,
+                113,
+                461,
+                278
+            ],
+            "can_tomatosoup_000031_1_gt.png": [
+                256,
+                221,
+                332,
+                353
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "can_tomatosoup_000045_1_gt.png": [],
+            "can_tomatosoup_000022_1_gt.png": [],
+            "can_tomatosoup_000015_1_gt.png": [],
+            "can_tomatosoup_000027_1_gt.png": [],
+            "can_tomatosoup_000009_1_gt.png": [],
+            "can_tomatosoup_000044_1_gt.png": [],
+            "can_tomatosoup_000024_1_gt.png": [],
+            "can_tomatosoup_000046_1_gt.png": [],
+            "can_tomatosoup_000011_2_gt.png": [],
+            "can_tomatosoup_000021_2_gt.png": [],
+            "can_tomatosoup_000011_1_gt.png": [
+                48,
+                2,
+                168,
+                168
+            ],
+            "can_tomatosoup_000006_1_gt.png": [
+                136,
+                268,
+                326,
+                460
+            ],
+            "can_tomatosoup_000042_2_gt.png": [
+                101,
+                145,
+                639,
+                387
+            ],
+            "can_tomatosoup_000046_2_gt.png": [
+                186,
+                160,
+                618,
+                422
+            ],
+            "can_tomatosoup_000007_1_gt.png": [],
+            "can_tomatosoup_000033_1_gt.png": [],
+            "can_tomatosoup_000008_1_gt.png": [
+                142,
+                274,
+                298,
+                443
+            ],
+            "can_tomatosoup_000005_1_gt.png": [],
+            "can_tomatosoup_000041_2_gt.png": [],
+            "can_tomatosoup_000048_2_gt.png": [],
+            "can_tomatosoup_000019_1_gt.png": [
+                230,
+                216,
+                457,
+                385
+            ],
+            "can_tomatosoup_000023_1_gt.png": [],
+            "can_tomatosoup_000026_1_gt.png": [],
+            "can_tomatosoup_000050_1_gt.png": [
+                138,
+                226,
+                233,
+                375
+            ],
+            "can_tomatosoup_000018_2_gt.png": [],
+            "can_tomatosoup_000009_2_gt.png": [],
+            "can_tomatosoup_000030_1_gt.png": [],
+            "can_tomatosoup_000029_1_gt.png": [],
+            "can_tomatosoup_000019_2_gt.png": [],
+            "can_tomatosoup_000035_1_gt.png": [],
+            "can_tomatosoup_000043_1_gt.png": [],
+            "can_tomatosoup_000010_2_gt.png": [],
+            "can_tomatosoup_000040_1_gt.png": [],
+            "can_tomatosoup_000037_2_gt.png": [],
+            "can_tomatosoup_000050_2_gt.png": [],
+            "can_tomatosoup_000038_1_gt.png": [
+                221,
+                147,
+                418,
+                295
+            ],
+            "can_tomatosoup_000013_1_gt.png": [],
+            "can_tomatosoup_000020_2_gt.png": [],
+            "can_tomatosoup_000049_2_gt.png": [],
+            "can_tomatosoup_000018_1_gt.png": [],
+            "can_tomatosoup_000044_2_gt.png": [
+                220,
+                176,
+                531,
+                411
+            ],
+            "can_tomatosoup_000037_1_gt.png": [],
+            "can_tomatosoup_000043_2_gt.png": [],
+            "can_tomatosoup_000001_1_gt.png": [],
+            "can_tomatosoup_000024_2_gt.png": [],
+            "can_tomatosoup_000021_1_gt.png": [],
+            "can_tomatosoup_000039_2_gt.png": [],
+            "can_tomatosoup_000014_2_gt.png": [],
+            "can_tomatosoup_000016_1_gt.png": [],
+            "can_tomatosoup_000047_2_gt.png": [],
+            "can_tomatosoup_000039_1_gt.png": [],
+            "can_tomatosoup_000028_1_gt.png": [],
+            "can_tomatosoup_000038_2_gt.png": [],
+            "can_tomatosoup_000048_1_gt.png": [],
+            "can_tomatosoup_000047_1_gt.png": [],
+            "can_tomatosoup_000010_1_gt.png": [],
+            "can_tomatosoup_000012_1_gt.png": [
+                111,
+                0,
+                191,
+                151
+            ],
+            "can_tomatosoup_000049_1_gt.png": [],
+            "can_tomatosoup_000002_1_gt.png": [
+                169,
+                131,
+                232,
+                224
+            ],
+            "can_tomatosoup_000020_1_gt.png": [],
+            "can_tomatosoup_000032_1_gt.png": [],
+            "can_tomatosoup_000034_1_gt.png": [],
+            "can_tomatosoup_000014_1_gt.png": [],
+            "can_tomatosoup_000025_1_gt.png": [
+                150,
+                197,
+                378,
+                349
+            ],
+            "can_tomatosoup_000036_1_gt.png": [],
+            "can_tomatosoup_000041_1_gt.png": [],
+            "can_tomatosoup_000004_1_gt.png": [
+                313,
+                105,
+                499,
+                244
+            ],
+            "can_tomatosoup_000003_1_gt.png": [
+                405,
+                172,
+                538,
+                289
+            ],
+            "can_tomatosoup_000013_2_gt.png": [],
+            "can_tomatosoup_000042_1_gt.png": [],
+            "can_tomatosoup_000045_2_gt.png": [],
+            "can_tomatosoup_000012_2_gt.png": [],
+            "can_tomatosoup_000017_1_gt.png": [],
+            "can_tomatosoup_000036_2_gt.png": [],
+            "can_tomatosoup_000031_1_gt.png": []
+        },
+        "mask_images_count": 75
+    },
+    "rice_tuscan": {
+        "product_images_list": [
+            "rice_tuscan_000029.jpg",
+            "rice_tuscan_000030.jpg",
+            "rice_tuscan_000034.jpg",
+            "rice_tuscan_000001.jpg",
+            "rice_tuscan_000007.jpg",
+            "rice_tuscan_000050.jpg",
+            "rice_tuscan_000027.jpg",
+            "rice_tuscan_000024.jpg",
+            "rice_tuscan_000016.jpg",
+            "rice_tuscan_000010.jpg",
+            "rice_tuscan_000031.jpg",
+            "rice_tuscan_000047.jpg",
+            "rice_tuscan_000040.jpg",
+            "rice_tuscan_000036.jpg",
+            "rice_tuscan_000021.jpg",
+            "rice_tuscan_000015.jpg",
+            "rice_tuscan_000026.jpg",
+            "rice_tuscan_000043.jpg",
+            "rice_tuscan_000004.jpg",
+            "rice_tuscan_000013.jpg",
+            "rice_tuscan_000011.jpg",
+            "rice_tuscan_000018.jpg",
+            "rice_tuscan_000012.jpg",
+            "rice_tuscan_000019.jpg",
+            "rice_tuscan_000009.jpg",
+            "rice_tuscan_000046.jpg",
+            "rice_tuscan_000032.jpg",
+            "rice_tuscan_000037.jpg",
+            "rice_tuscan_000023.jpg",
+            "rice_tuscan_000017.jpg",
+            "rice_tuscan_000025.jpg",
+            "rice_tuscan_000044.jpg",
+            "rice_tuscan_000008.jpg",
+            "rice_tuscan_000005.jpg",
+            "rice_tuscan_000048.jpg",
+            "rice_tuscan_000022.jpg",
+            "rice_tuscan_000014.jpg",
+            "rice_tuscan_000035.jpg",
+            "rice_tuscan_000049.jpg",
+            "rice_tuscan_000038.jpg",
+            "rice_tuscan_000028.jpg",
+            "rice_tuscan_000041.jpg",
+            "rice_tuscan_000042.jpg",
+            "rice_tuscan_000045.jpg",
+            "rice_tuscan_000033.jpg",
+            "rice_tuscan_000002.jpg",
+            "rice_tuscan_000039.jpg",
+            "rice_tuscan_000006.jpg",
+            "rice_tuscan_000003.jpg",
+            "rice_tuscan_000020.jpg"
+        ],
+        "product_images_count": 50,
+        "mask_images_truth_bbox": {
+            "rice_tuscan_000036_1_gt.png": [
+                238,
+                161,
+                307,
+                341
+            ],
+            "rice_tuscan_000009_1_gt.png": [
+                225,
+                104,
+                359,
+                375
+            ],
+            "rice_tuscan_000016_1_gt.png": [
+                316,
+                94,
+                425,
+                302
+            ],
+            "rice_tuscan_000048_1_gt.png": [
+                416,
+                149,
+                517,
+                364
+            ],
+            "rice_tuscan_000020_1_gt.png": [
+                86,
+                165,
+                271,
+                324
+            ],
+            "rice_tuscan_000022_1_gt.png": [
+                166,
+                69,
+                274,
+                322
+            ],
+            "rice_tuscan_000005_1_gt.png": [
+                320,
+                127,
+                405,
+                258
+            ],
+            "rice_tuscan_000030_1_gt.png": [
+                114,
+                126,
+                273,
+                389
+            ],
+            "rice_tuscan_000040_1_gt.png": [
+                84,
+                72,
+                231,
+                322
+            ],
+            "rice_tuscan_000027_1_gt.png": [
+                54,
+                100,
+                224,
+                337
+            ],
+            "rice_tuscan_000044_1_gt.png": [
+                39,
+                182,
+                134,
+                356
+            ],
+            "rice_tuscan_000007_2_gt.png": [
+                312,
+                161,
+                417,
+                267
+            ],
+            "rice_tuscan_000038_2_gt.png": [
+                316,
+                167,
+                428,
+                320
+            ],
+            "rice_tuscan_000017_1_gt.png": [
+                208,
+                14,
+                327,
+                209
+            ],
+            "rice_tuscan_000029_2_gt.png": [
+                233,
+                73,
+                336,
+                219
+            ],
+            "rice_tuscan_000045_1_gt.png": [
+                242,
+                134,
+                355,
+                280
+            ],
+            "rice_tuscan_000025_2_gt.png": [
+                299,
+                60,
+                439,
+                244
+            ],
+            "rice_tuscan_000032_1_gt.png": [
+                167,
+                177,
+                326,
+                362
+            ],
+            "rice_tuscan_000050_1_gt.png": [
+                347,
+                234,
+                467,
+                440
+            ],
+            "rice_tuscan_000033_1_gt.png": [
+                94,
+                151,
+                222,
+                315
+            ],
+            "rice_tuscan_000022_2_gt.png": [
+                285,
+                74,
+                365,
+                336
+            ],
+            "rice_tuscan_000006_1_gt.png": [
+                174,
+                186,
+                262,
+                304
+            ],
+            "rice_tuscan_000012_1_gt.png": [
+                219,
+                100,
+                328,
+                306
+            ],
+            "rice_tuscan_000003_2_gt.png": [
+                340,
+                165,
+                430,
+                309
+            ],
+            "rice_tuscan_000035_2_gt.png": [
+                35,
+                132,
+                150,
+                282
+            ],
+            "rice_tuscan_000031_1_gt.png": [
+                78,
+                75,
+                230,
+                285
+            ],
+            "rice_tuscan_000024_2_gt.png": [
+                82,
+                239,
+                189,
+                461
+            ],
+            "rice_tuscan_000030_2_gt.png": [
+                251,
+                128,
+                377,
+                350
+            ],
+            "rice_tuscan_000026_2_gt.png": [
+                247,
+                219,
+                340,
+                432
+            ],
+            "rice_tuscan_000014_1_gt.png": [
+                314,
+                90,
+                397,
+                264
+            ],
+            "rice_tuscan_000039_1_gt.png": [
+                111,
+                149,
+                234,
+                351
+            ],
+            "rice_tuscan_000036_2_gt.png": [
+                304,
+                170,
+                380,
+                364
+            ],
+            "rice_tuscan_000028_2_gt.png": [
+                334,
+                106,
+                414,
+                343
+            ],
+            "rice_tuscan_000046_1_gt.png": [
+                364,
+                178,
+                491,
+                338
+            ],
+            "rice_tuscan_000041_1_gt.png": [
+                136,
+                193,
+                233,
+                381
+            ],
+            "rice_tuscan_000004_2_gt.png": [
+                80,
+                116,
+                188,
+                258
+            ],
+            "rice_tuscan_000038_1_gt.png": [
+                228,
+                133,
+                304,
+                317
+            ],
+            "rice_tuscan_000029_1_gt.png": [
+                68,
+                146,
+                219,
+                398
+            ],
+            "rice_tuscan_000032_2_gt.png": [
+                259,
+                109,
+                446,
+                285
+            ],
+            "rice_tuscan_000015_1_gt.png": [
+                227,
+                54,
+                320,
+                248
+            ],
+            "rice_tuscan_000007_1_gt.png": [
+                244,
+                135,
+                320,
+                264
+            ],
+            "rice_tuscan_000013_1_gt.png": [
+                265,
+                142,
+                373,
+                317
+            ],
+            "rice_tuscan_000005_2_gt.png": [
+                369,
+                184,
+                507,
+                270
+            ],
+            "rice_tuscan_000021_2_gt.png": [
+                277,
+                127,
+                469,
+                356
+            ],
+            "rice_tuscan_000008_1_gt.png": [
+                121,
+                44,
+                222,
+                186
+            ],
+            "rice_tuscan_000002_1_gt.png": [
+                193,
+                186,
+                285,
+                320
+            ],
+            "rice_tuscan_000008_2_gt.png": [
+                209,
+                22,
+                279,
+                157
+            ],
+            "rice_tuscan_000040_2_gt.png": [
+                403,
+                145,
+                572,
+                340
+            ],
+            "rice_tuscan_000023_1_gt.png": [
+                166,
+                125,
+                277,
+                333
+            ],
+            "rice_tuscan_000026_1_gt.png": [
+                157,
+                224,
+                269,
+                441
+            ],
+            "rice_tuscan_000006_2_gt.png": [
+                213,
+                266,
+                362,
+                351
+            ],
+            "rice_tuscan_000025_1_gt.png": [
+                96,
+                149,
+                286,
+                428
+            ],
+            "rice_tuscan_000011_1_gt.png": [
+                258,
+                91,
+                394,
+                342
+            ],
+            "rice_tuscan_000049_1_gt.png": [
+                162,
+                143,
+                278,
+                309
+            ],
+            "rice_tuscan_000004_1_gt.png": [
+                125,
+                200,
+                282,
+                292
+            ],
+            "rice_tuscan_000003_1_gt.png": [
+                245,
+                155,
+                330,
+                303
+            ],
+            "rice_tuscan_000027_2_gt.png": [
+                250,
+                98,
+                406,
+                342
+            ],
+            "rice_tuscan_000024_1_gt.png": [
+                241,
+                32,
+                332,
+                214
+            ],
+            "rice_tuscan_000037_2_gt.png": [
+                384,
+                136,
+                461,
+                323
+            ],
+            "rice_tuscan_000035_1_gt.png": [
+                363,
+                192,
+                486,
+                359
+            ],
+            "rice_tuscan_000037_1_gt.png": [
+                187,
+                222,
+                347,
+                404
+            ],
+            "rice_tuscan_000034_1_gt.png": [
+                394,
+                240,
+                537,
+                388
+            ],
+            "rice_tuscan_000010_1_gt.png": [
+                244,
+                118,
+                348,
+                328
+            ],
+            "rice_tuscan_000043_1_gt.png": [
+                160,
+                180,
+                367,
+                229
+            ],
+            "rice_tuscan_000039_2_gt.png": [
+                390,
+                212,
+                508,
+                414
+            ],
+            "rice_tuscan_000028_1_gt.png": [
+                100,
+                133,
+                240,
+                381
+            ],
+            "rice_tuscan_000047_1_gt.png": [
+                107,
+                207,
+                335,
+                383
+            ],
+            "rice_tuscan_000001_1_gt.png": [
+                217,
+                66,
+                308,
+                228
+            ],
+            "rice_tuscan_000018_1_gt.png": [
+                270,
+                129,
+                400,
+                370
+            ],
+            "rice_tuscan_000031_2_gt.png": [
+                232,
+                155,
+                424,
+                352
+            ],
+            "rice_tuscan_000019_1_gt.png": [
+                103,
+                198,
+                251,
+                353
+            ],
+            "rice_tuscan_000021_1_gt.png": [
+                129,
+                95,
+                308,
+                344
+            ],
+            "rice_tuscan_000041_2_gt.png": [
+                366,
+                172,
+                479,
+                310
+            ],
+            "rice_tuscan_000023_2_gt.png": [
+                284,
+                100,
+                339,
+                336
+            ],
+            "rice_tuscan_000042_1_gt.png": [
+                111,
+                144,
+                215,
+                366
+            ]
+        },
+        "mask_images_pred_bbox": {
+            "rice_tuscan_000036_1_gt.png": [],
+            "rice_tuscan_000009_1_gt.png": [],
+            "rice_tuscan_000016_1_gt.png": [],
+            "rice_tuscan_000048_1_gt.png": [],
+            "rice_tuscan_000020_1_gt.png": [
+                75,
+                167,
+                269,
+                326
+            ],
+            "rice_tuscan_000022_1_gt.png": [],
+            "rice_tuscan_000005_1_gt.png": [
+                323,
+                101,
+                449,
+                201
+            ],
+            "rice_tuscan_000030_1_gt.png": [
+                111,
+                128,
+                375,
+                387
+            ],
+            "rice_tuscan_000040_1_gt.png": [
+                81,
+                73,
+                209,
+                320
+            ],
+            "rice_tuscan_000027_1_gt.png": [],
+            "rice_tuscan_000044_1_gt.png": [
+                38,
+                187,
+                191,
+                353
+            ],
+            "rice_tuscan_000007_2_gt.png": [
+                55,
+                34,
+                478,
+                441
+            ],
+            "rice_tuscan_000038_2_gt.png": [
+                319,
+                173,
+                426,
+                316
+            ],
+            "rice_tuscan_000017_1_gt.png": [
+                206,
+                16,
+                326,
+                211
+            ],
+            "rice_tuscan_000029_2_gt.png": [
+                192,
+                0,
+                339,
+                156
+            ],
+            "rice_tuscan_000045_1_gt.png": [],
+            "rice_tuscan_000025_2_gt.png": [],
+            "rice_tuscan_000032_1_gt.png": [],
+            "rice_tuscan_000050_1_gt.png": [
+                6,
+                137,
+                568,
+                476
+            ],
+            "rice_tuscan_000033_1_gt.png": [],
+            "rice_tuscan_000022_2_gt.png": [
+                255,
+                0,
+                413,
+                103
+            ],
+            "rice_tuscan_000006_1_gt.png": [
+                194,
+                154,
+                350,
+                203
+            ],
+            "rice_tuscan_000012_1_gt.png": [
+                223,
+                105,
+                326,
+                301
+            ],
+            "rice_tuscan_000003_2_gt.png": [],
+            "rice_tuscan_000035_2_gt.png": [
+                8,
+                136,
+                144,
+                284
+            ],
+            "rice_tuscan_000031_1_gt.png": [
+                80,
+                75,
+                243,
+                284
+            ],
+            "rice_tuscan_000024_2_gt.png": [
+                79,
+                244,
+                187,
+                463
+            ],
+            "rice_tuscan_000030_2_gt.png": [],
+            "rice_tuscan_000026_2_gt.png": [
+                250,
+                233,
+                326,
+                430
+            ],
+            "rice_tuscan_000014_1_gt.png": [],
+            "rice_tuscan_000039_1_gt.png": [
+                113,
+                142,
+                221,
+                348
+            ],
+            "rice_tuscan_000036_2_gt.png": [],
+            "rice_tuscan_000028_2_gt.png": [
+                283,
+                110,
+                433,
+                395
+            ],
+            "rice_tuscan_000046_1_gt.png": [],
+            "rice_tuscan_000041_1_gt.png": [],
+            "rice_tuscan_000004_2_gt.png": [
+                38,
+                83,
+                268,
+                254
+            ],
+            "rice_tuscan_000038_1_gt.png": [],
+            "rice_tuscan_000029_1_gt.png": [
+                70,
+                83,
+                331,
+                396
+            ],
+            "rice_tuscan_000032_2_gt.png": [
+                170,
+                107,
+                441,
+                354
+            ],
+            "rice_tuscan_000015_1_gt.png": [],
+            "rice_tuscan_000007_1_gt.png": [],
+            "rice_tuscan_000013_1_gt.png": [
+                263,
+                149,
+                370,
+                317
+            ],
+            "rice_tuscan_000005_2_gt.png": [],
+            "rice_tuscan_000021_2_gt.png": [],
+            "rice_tuscan_000008_1_gt.png": [
+                119,
+                36,
+                238,
+                179
+            ],
+            "rice_tuscan_000002_1_gt.png": [
+                192,
+                188,
+                286,
+                317
+            ],
+            "rice_tuscan_000008_2_gt.png": [],
+            "rice_tuscan_000040_2_gt.png": [],
+            "rice_tuscan_000023_1_gt.png": [
+                156,
+                126,
+                272,
+                348
+            ],
+            "rice_tuscan_000026_1_gt.png": [],
+            "rice_tuscan_000006_2_gt.png": [],
+            "rice_tuscan_000025_1_gt.png": [
+                12,
+                54,
+                478,
+                426
+            ],
+            "rice_tuscan_000011_1_gt.png": [],
+            "rice_tuscan_000049_1_gt.png": [],
+            "rice_tuscan_000004_1_gt.png": [],
+            "rice_tuscan_000003_1_gt.png": [
+                198,
+                56,
+                327,
+                303
+            ],
+            "rice_tuscan_000027_2_gt.png": [],
+            "rice_tuscan_000024_1_gt.png": [],
+            "rice_tuscan_000037_2_gt.png": [],
+            "rice_tuscan_000035_1_gt.png": [],
+            "rice_tuscan_000037_1_gt.png": [],
+            "rice_tuscan_000034_1_gt.png": [
+                397,
+                109,
+                618,
+                396
+            ],
+            "rice_tuscan_000010_1_gt.png": [
+                244,
+                121,
+                341,
+                325
+            ],
+            "rice_tuscan_000043_1_gt.png": [],
+            "rice_tuscan_000039_2_gt.png": [],
+            "rice_tuscan_000028_1_gt.png": [],
+            "rice_tuscan_000047_1_gt.png": [],
+            "rice_tuscan_000001_1_gt.png": [],
+            "rice_tuscan_000018_1_gt.png": [],
+            "rice_tuscan_000031_2_gt.png": [],
+            "rice_tuscan_000019_1_gt.png": [],
+            "rice_tuscan_000021_1_gt.png": [
+                238,
+                0,
+                408,
+                129
+            ],
+            "rice_tuscan_000041_2_gt.png": [
+                371,
+                173,
+                455,
+                307
+            ],
+            "rice_tuscan_000023_2_gt.png": [],
+            "rice_tuscan_000042_1_gt.png": []
+        },
+        "mask_images_count": 75
+    }
+}
