@@ -19,19 +19,19 @@
 ### Function Modification for Multi-threading
 - Enhanced the `track_item_boxes` function to support multi-threading, enabling dynamic path and variable management across threads. This optimization significantly improved the efficiency and speed of bounding box predictions for multiple objects.
 
-## Test Set Construction
+## **Test Set Construction**
 
 ### Exclusion of Training Images
-- Excluded the first image of each object from the test set to avoid bias, as these images were used for training.
+- **Excluded the first image of each object from the test set to avoid bias, as these images were used for training.**
 
 ### Handling Multiple Instances
-- For images with multiple masks, only the mask associated with the tracked object was considered valid. Given the single-shot tracking task, only one mask per image was relevant to ensure focused evaluation.
+- **For images with multiple masks, only the mask associated with the tracked object was considered valid. Given the single-shot tracking task not object detection(so only was instance in a image must be ground truth), only one mask per image was relevant to ensure focused evaluation.**
 
 ### Handling No Detections
-- For images where SAM2 did not detect any object, only one mask image was included in the test set to represent the ground truth. This approach aligned with the expectation of having a single prediction per image.
+- **For images where SAM2 did not detect any object, only one mask image was included in the test set to represent the ground truth. This approach aligned with the expectation of having a single prediction per image.**
 
 ### Construction of Test Set Dictionary
-- Constructed the test set dictionary based on these criteria and generated `ground_truth.json` and `predictions.json` in COCO format for evaluation.
+- **Constructed the test set dictionary based on these criteria and generated `ground_truth.json` and `predictions.json` in COCO format for evaluation.**
 
 ## Performance Evaluation
 
